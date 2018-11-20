@@ -129,11 +129,11 @@ Note that this is only for attack lines that don't use karaoke effects.
 - Narrator: For when the narrator is speaking.
 
 ## Special characters
-Hyphen/Dash/Minus: `-`
-Apostrophe: `'`
-Quotation: `" "`
-(Back)slash: `\ /`
-Other: `!%&()=¤#@£$€{[]}´\`€~^|<>*+`
+- Hyphen/Dash/Minus: `-`
+- Apostrophe: `'`
+- Quotation: `" "`
+- (Back)slash: `\ /`
+- Other: ```!%&()=¤#@£$€{[]}´`€~^|<>*+```
 
 ## Formatting and standards
 - Words: Primarily US English (Color, Meter, Gray, Cookie, Theater etc.)

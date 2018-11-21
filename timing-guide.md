@@ -3,28 +3,37 @@
 Translated to English, while keeping the double noun, like Rubber-Rubber Fruit. The hyphen is always present in the name of the fruit and attack. Furthermore, while Japanese names are translated, exceptions are made for specifically Japanese attacks such as Zoro's Onigiri or Katakuri's Mochi.
 
 - Chop-Chop Fruit
-- Soul-Soul Fruit
+- Flower-Flower Fruit
+- Memo-Memo Fruit
 - Mochi-Mochi Fruit
 - Rubber-Rubber Fruit
-- Memo-Memo Fruit
-- Flower-Flower Fruit
+- Soul-Soul Fruit
+- Smoke-Smoke Fruit
 
 ### Characters
 - Aladine
+- Avalo Pizarro
 - Beer VI
+- Bell-mère
 - Belo Betty
 - Binks' Sake
 - Black Leg Sanji
 - Bon Kurei
-- Carmel
+- Buchi
 - Camie
+- Carmel
 - Carue
+- Catarina Devon
 - Charlos
 - Charlotte Brûlée
 - Charlotte Dragée
 - Charlotte Katakuri (Dogtooth is BULLSHIT)
+- Charlotte Linlin/Big Mom
 - Charlotte Mont d'Or
 - Charlotte Yuen
+- Chouchou
+- Dracule "Hawk Eye" Mihawk
+- Eustass "Captain" Kid
 - Fishman/Fishmen
 - Five Elders
 - Flampe
@@ -32,47 +41,56 @@ Translated to English, while keeping the double noun, like Rubber-Rubber Fruit. 
 - Gekko Moriah
 - Gomorrah
 - Ham Burger
+- Hatchan/Hachi
 - Iceburg
 - Jinbe
 - Kaidou
 - Kalifa
+- Karasu
 - Kashi
 - King Baum
-- Karasu
 - Koby
-- Koza
+- Kohza
 - Lindbergh
 - Marshall D. Teach
 - Mary Geoise (Mariejois reborn)
 - Merman/Mermen
 - Morley
-- Nefeltari
-- Pappug
+- Nefertari
+- Pappag
+- Portgas D. Ace
 - Roshwan Kingdom
 - Rosward
-- Portgas 
+- Sadi
+- Sanjuan Wolf
 - Sentomaru
-- Shakuyaku (Shakki nickname)
-- Shiliew
+- Shakuyaku (Shakky nickname)
 - Shalria
-- Sterry
+- Sham
+- Shiliew
 - Sodom
+- Squard
+- Sterry
+- Vasco Shot
 
 ### Events
  - Summit War
 
 ### Locations 
 - Cacao Island
+- Cocoyasi Village
 - Dressrosa
 - Tarai Current
 - Water 7
 - Wheat Island
 
-### Titles
+### Titles & Epithets
 - Dengeki Blue
 - Four Emperors
 - (Royal) Warlord(s)
 - Pirate King
+
+### Navy Grammar
 - The Navy
 - A Navy ship
 - Admiral Kizaru
@@ -81,7 +99,7 @@ Translated to English, while keeping the double noun, like Rubber-Rubber Fruit. 
 - Smoker is a vice admiral
 
 ### Abilities
-- Boundman
+- Boundman/Tankman/Snakeman
 - Gear Fourth
 - Gear Second
 - Gear Third

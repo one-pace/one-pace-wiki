@@ -43,7 +43,7 @@ Translated to English, while keeping the double noun, like Rubber-Rubber Fruit. 
 - Koza
 - Lindbergh
 - Marshall D. Teach
-- Mary Geoise (Marijois reborn)
+- Mary Geoise (Mariejois reborn)
 - Merman/Mermen
 - Morley
 - Nefeltari

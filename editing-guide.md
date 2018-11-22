@@ -44,7 +44,7 @@ For newly rendered episodes that are to be compressed to x265, use the video cod
 
 
 ### 3.3.3. Compressing
-Now that you've gathered all the important information on the frame rate and codecs to use, this is what to type in your terminal (Obviously, replace the tags with your correct information):
+Now that you've gathered all the important information on the frame rate and codecs to use, this is what to type in the terminal (Obviously, replace the tags with the correct information):
 
 ```ffmpeg -i <input.mp4> -c:v <video codec> -c:a copy -crf 23 -preset slow -r <frame rate> <output.mp4>```
 
@@ -53,4 +53,4 @@ Now that you've gathered all the important information on the frame rate and cod
 ## 4.2. Handling transitions
 ## 4.3. Following the mood
 ## 4.4. Still shots
-
+Still shots are done by slowing down a video event to 0% speed and then extending it to the desired length. For the frame you wish to have a still shot of, separate it from the main video event, right-click it, and press "Insert/Remove Envelope" followed by "Velocity" and a green bar will display on the video event. At the beginning of the event right-click at the little green square and press "Set to 0% velocity", now you can drag your event as long as you want to and it will keep still, creating a still shot.

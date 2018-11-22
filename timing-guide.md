@@ -7,7 +7,7 @@
     + [1.1.3. Events](#113-events)
     + [1.1.4. Locations](#114-locations)
     + [1.1.5. Titles & Epithets](#115-titles--epithets)
-    + [1.1.6.Navy Grammar](#116navy-grammar)
+    + [1.1.6. Navy Grammar](#116navy-grammar)
     + [1.1.7. Abilities](#117-abilities)
     + [1.1.8. Other](#118-other)
   * [1.2. Sentence spacing](#12-sentence-spacing)
@@ -118,7 +118,7 @@ Translated to English, while keeping the double noun, like Rubber-Rubber Fruit. 
 - (Royal) Warlord(s)
 - Pirate King
 
-### 1.1.6.Navy Grammar
+### 1.1.6. Navy Grammar
 - The Navy
 - A Navy ship
 - Admiral Kizaru

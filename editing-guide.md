@@ -12,6 +12,7 @@
   * [4.1. Editing music](#41-editing-music)
   * [4.2. Handling transitions](#42-handling-transitions)
   * [4.3. Following the mood](#43-following-the-mood)
+  * [4.4. Still shots](#44-still-shots)
 
 # 1. Tools
 # 2. Source material containers
@@ -51,3 +52,5 @@ Now that you've gathered all the important information on the frame rate and cod
 ## 4.1. Editing music
 ## 4.2. Handling transitions
 ## 4.3. Following the mood
+## 4.4. Still shots
+

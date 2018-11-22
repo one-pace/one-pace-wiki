@@ -152,6 +152,7 @@ Lines ending with ellipses (...) must not continue the ellipsis on the following
 ## 1.5. Attacks
 ### 1.5.1. Fading
 *Note: Only relevant to attacks that don't use Karaoke Effects.*
+
 Attack fades are **150 milliseconds** long and should end in an exclamation mark, depending on the vocal exclamation. Example: `{\fad(150,150)}Rubber-Rubber Balloon!`. If there is a pause in the attack, split the line into two, ending the first line in an ellipsis. Both lines should have fading.
 
 ## 1.6. Character set

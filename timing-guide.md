@@ -6,7 +6,7 @@
     + [1.1.2. Characters](#112-characters)
     + [1.1.3. Events](#113-events)
     + [1.1.4. Locations](#114-locations)
-    + [1.1.5. Titles & Epithets](#115-titles---epithets)
+    + [1.1.5. Titles & Epithets](#115-titles--epithets)
     + [1.1.6.Navy Grammar](#116navy-grammar)
     + [1.1.7. Abilities](#117-abilities)
     + [1.1.8. Other](#118-other)

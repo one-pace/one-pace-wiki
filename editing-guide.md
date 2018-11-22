@@ -27,7 +27,7 @@ These are the project settings that **all** Vegas project **must have** before s
 ## 1.2. Rendering configuration
 
 ## 1.3. Compression configuration
-For compression purposes we **always** use [ffmpeg](https://www.ffmpeg.org/download.html). For compressing a newly rendered episode, use this setting:
+For compression purposes we **always** use [ffmpeg](https://www.ffmpeg.org/download.html). This includes rendered episodes and streams.
 
 ### 1.3.1. Frame rate
 The frame varies depending on the source material used. If the majority of the source material is using 23.976 as its frame rate, use the frame rate `24000/1001`. If, however, the majority of the source material uses the frame rate 29.976, use the frame rate `30000/1001`.

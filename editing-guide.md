@@ -1,4 +1,15 @@
 # Table of Contents
+- [1. Configuration](#1-configuration)
+  * [1.1. Project configuration](#11-project-configuration)
+  * [1.2. Rendering configuration](#12-rendering-configuration)
+  * [1.3. Compression configuration](#13-compression-configuration)
+    + [1.3.1. Frame rate](#131-frame-rate)
+    + [1.3.2. Video codec](#132-video-codec)
+    + [1.3.3. Compressing](#133-compressing)
+- [2. Practices](#2-practices)
+  * [2.1. Editing music](#21-editing-music)
+  * [2.2. Handling transitions](#22-handling-transitions)
+  * [2.3. Following the mood](#23-following-the-mood)
 
 # 1. Configuration
 ## 1.1. Project configuration

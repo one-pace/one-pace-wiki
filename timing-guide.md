@@ -134,9 +134,9 @@ Translated to English, while keeping the double noun, like Rubber-Rubber Fruit. 
 
 ### 1.1.7. Abilities
 - Boundman/Tankman/Snakeman
-- Gear Fourth
-- Gear Second
-- Gear Third
+- Gear Second / Third / Fourth
+- Rubber-Rubber...
+- Shambles
 
 ### 1.1.8. Other
 - Belly

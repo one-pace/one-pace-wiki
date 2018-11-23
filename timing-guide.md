@@ -71,6 +71,7 @@ Note: character names are usually in Japanese order. So Family name then Forenam
 - Chouchou
 - Dracule "Hawk Eye" Mihawk
 - Eustass "Captain" Kid
+- Enel
 - Flampe
 - Fukurou
 - Gecko Moria
@@ -130,9 +131,10 @@ Note: character names are usually in Japanese order. So Family name then Forenam
 - Five Elder(s)
 - Four Emperors
 - God (Enel's Self proclaimed title, do not use Sky King or Kami)
-- (Seven Royal) Warlord(s) (of the Sea)
+- Knight of the Sea (not First Son of the Sea)
 - Pirate King (depending on context, "King of the Pirates" can be appropriate)
 - Shipwrights (not carpenter) 
+- (The Seven Royal) Warlord(s) (of the Sea)
 
 ### 1.1.6. Navy Grammar
 Note: Marine is used to reference soldiers of the Navy. While the Navy is the name of the organization, which the Marines serve.

@@ -81,7 +81,6 @@ Translated to English, while keeping the double noun, like Rubber-Rubber Fruit. 
 - Kohza
 - Lindbergh
 - Marshall D. Teach
-- Mary Geoise (Mariejois reborn)
 - Merman/Mermen
 - Morley
 - Nefertari
@@ -102,6 +101,7 @@ Translated to English, while keeping the double noun, like Rubber-Rubber Fruit. 
 - Vasco Shot
 
 ### 1.1.3. Events
+ - Reverie
  - Summit War
 
 ### 1.1.4. Locations 
@@ -109,6 +109,7 @@ Translated to English, while keeping the double noun, like Rubber-Rubber Fruit. 
 - Cocoyasi Village
 - Dressrosa
 - Elbaf
+- Mary Geoise (Mariejois reborn)
 - Tarai Current
 - Water 7
 - Wheat Island

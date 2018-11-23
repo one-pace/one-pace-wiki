@@ -27,9 +27,11 @@
 
 # 1. Grammar
 ## 1.1. Naming convention
-1) We only consider an update for the names if the pronunciation/ meaning changes.
-2) Recent Oda is king unless a loud majority hate it (not mildly prefer or are used to another spelling).
-3) If there is enough hate, we look to the anime, Jump, official English versions for alternatives or come up with our own if we can't find a good one.
+1) We only consider an update for a name if the pronunciation/ meaning changes.
+
+2) Recent Oda is king, unless a loud majority hate it/ thinks it makes no sense.(mildly prefering or being "used to" another spelling isn't enough).
+
+3) If there is enough hate, we look to the anime, databooks, Jump and official English versions for alternatives. If we can find none, we come up with our own interpretation.
 
 ### 1.1.1. Devil Fruits
 Translated to English, while keeping the double noun, like Rubber-Rubber Fruit. The hyphen is always present in the name of the fruit and attack. Furthermore, while Japanese names are translated, exceptions are made for specifically Japanese attacks such as Zoro's Onigiri or Katakuri's Mochi.

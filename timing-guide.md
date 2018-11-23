@@ -162,7 +162,8 @@ Note: Marine is used to reference soldiers of the Navy. While the Navy is the na
 - The Going Merry (when personified refered to as "she")
 - The Thousand Sunny
 - Transponder Snail
-- Merman/Mermen (refering to people like King Camie)
+- Merman/Mermen (refering to people like Fukaboshi
+- Mermaid(s) (refering to people like Camie)
 
 ## 1.2. Sentence spacing
 Sentences are separated by a single space.

@@ -108,6 +108,7 @@ Translated to English, while keeping the double noun, like Rubber-Rubber Fruit. 
 - Cacao Island
 - Cocoyasi Village
 - Dressrosa
+- Elbaf
 - Tarai Current
 - Water 7
 - Wheat Island

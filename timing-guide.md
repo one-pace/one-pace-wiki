@@ -108,7 +108,8 @@ Translated to English, while keeping the double noun, like Rubber-Rubber Fruit. 
  - Reverie
  - Summit War
 
-### 1.1.4. Locations 
+### 1.1.4. Locations
+- Arabasta
 - Cacao Island
 - Cocoyasi Village
 - Dressrosa

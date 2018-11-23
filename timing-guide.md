@@ -98,7 +98,7 @@ Translated to English, while keeping the double noun, like Rubber-Rubber Fruit. 
 - Shakuyaku (Shakky nickname)
 - Shalria
 - Sham
-- Shiliew
+- Shiryu
 - Sodom
 - Squard
 - Sterry

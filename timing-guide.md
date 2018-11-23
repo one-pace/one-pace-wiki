@@ -28,21 +28,26 @@
 # 1. Grammar
 ## 1.1. Naming convention
 1) We only consider an update for the names if the pronunciation/ meaning changes.
-2) Recent Oda is King unless a loud majority hate it (and I mean hate, not mildly prefer another spelling).
-3) If there is enough hate, we look to the Anime, Jump, official English versions for alternatives or come up with our own if we can't find a good one.
+2) Recent Oda is king unless a loud majority hate it (not mildly prefer or are used to another spelling).
+3) If there is enough hate, we look to the anime, Jump, official English versions for alternatives or come up with our own if we can't find a good one.
 
 ### 1.1.1. Devil Fruits
 Translated to English, while keeping the double noun, like Rubber-Rubber Fruit. The hyphen is always present in the name of the fruit and attack. Furthermore, while Japanese names are translated, exceptions are made for specifically Japanese attacks such as Zoro's Onigiri or Katakuri's Mochi.
 
 - Chop-Chop Fruit
+- Flame-Flame Fruit
 - Flower-Flower Fruit
+- Magma-Magma Fruit
 - Memo-Memo Fruit
 - Mochi-Mochi Fruit
 - Rubber-Rubber Fruit
 - Soul-Soul Fruit
 - Smoke-Smoke Fruit
+- Quake-Quake Fruit 
 
 ### 1.1.2. Characters
+Note: character names are usually in Japanese order. So Family name then Forename. E.G. It's Vinsmoke Sanji, not Sanji Vinsmoke.
+
 - Aladine
 - Avalo Pizarro
 - Beer VI
@@ -66,11 +71,10 @@ Translated to English, while keeping the double noun, like Rubber-Rubber Fruit. 
 - Chouchou
 - Dracule "Hawk Eye" Mihawk
 - Eustass "Captain" Kid
-- Fishman/Fishmen
-- Five Elders
 - Flampe
 - Fukurou
 - Gecko Moria
+- Gen-san (rather than Genzo)
 - Gomorrah
 - Ham Burger
 - Hatchan/Hachi
@@ -85,7 +89,6 @@ Translated to English, while keeping the double noun, like Rubber-Rubber Fruit. 
 - Kohza
 - Lindbergh
 - Marshall D. Teach
-- Merman/Mermen
 - Morley
 - Nefertari
 - Pappag
@@ -103,6 +106,7 @@ Translated to English, while keeping the double noun, like Rubber-Rubber Fruit. 
 - Squard
 - Sterry
 - Vasco Shot
+- Roronoa Zoro
 
 ### 1.1.3. Events
  - Reverie
@@ -114,20 +118,30 @@ Translated to English, while keeping the double noun, like Rubber-Rubber Fruit. 
 - Cocoyasi Village
 - Dressrosa
 - Elbaf
+- Loguetown (pun on prologue and epilogue)
 - Mary Geoise (Mariejois reborn)
 - Tarai Current
+- The City of Gold (Shandora is not called El Darado)   
 - Water 7
 - Wheat Island
 
 ### 1.1.5. Titles & Epithets
 - Dengeki Blue
+- Five Elder(s)
 - Four Emperors
-- (Royal) Warlord(s)
+- God (Enel's Self proclaimed title, do not use Sky King or Kami)
+- (Seven Royal) Warlord(s) (of the Sea)
 - Pirate King
+- Shipwrights (not carpenter) 
 
 ### 1.1.6. Navy Grammar
+Note: Marine is used to reference soldiers of the Navy. While the Navy is the name of the organization, which the Marines serve.
+
 - The Navy
 - A Navy ship
+- Navy Headquarters
+- He's a Marine
+- The Marines are coming
 - Admiral Kizaru
 - He's an admiral
 - Vice Admiral Smoker
@@ -136,13 +150,19 @@ Translated to English, while keeping the double noun, like Rubber-Rubber Fruit. 
 ### 1.1.7. Abilities
 - Boundman/Tankman/Snakeman
 - Gear Second / Third / Fourth
+- Haki (do not translate it to "will power")
 - Rubber-Rubber...
 - Shambles
 
 ### 1.1.8. Other
 - Belly
+- Fishman/Fishmen (refering to people like Jinbe)
 - Poneglyph
+- Sea Kings (not Neptunes)
+- The Going Merry (when personified refered to as "she")
+- The Thousand Sunny
 - Transponder Snail
+- Merman/Mermen (refering to people like King Camie)
 
 ## 1.2. Sentence spacing
 Sentences are separated by a single space.

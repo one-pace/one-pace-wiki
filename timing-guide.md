@@ -66,7 +66,7 @@ Translated to English, while keeping the double noun, like Rubber-Rubber Fruit. 
 - Five Elders
 - Flampe
 - Fukurou
-- Gekko Moriah
+- Gecko Moria
 - Gomorrah
 - Ham Burger
 - Hatchan/Hachi

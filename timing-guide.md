@@ -154,7 +154,7 @@ Note: Marine is used to reference soldiers of the Navy. While the Navy is the na
 - Smoker is a vice admiral
 
 ### 1.1.7. Abilities
-Note we currently do not translate attack names if they are in a language other than Japanese. E.G. We keep Sanji's and Robin's moves as they are. We also do not translate a move name if it ruins a reference. E.G. Zoro's "Two-Sword Style Rashomon" attack is a reference to a gate of the same name in Kyoto and a famous movie of the same name. To literally translate it would ruin the reference.
+Note: we currently do not translate attack names if they are in a language other than Japanese. E.G. We keep Sanji's and Robin's moves as they are. We also do not translate a move name if a literal translation ruins a reference. E.G. Zoro's "Two-Sword Style Rashomon" attack is a reference to a gate of the same name in Kyoto and a famous movie.
 
 - Boundman/Tankman/Snakeman
 - Gear Second / Third / Fourth

@@ -71,7 +71,7 @@ Note: character names are usually in Japanese order. So Family name then Forenam
 - Charlotte Mont d'Or
 - Charlotte Yuen
 - Chouchou
-- Donquixote Doflamingo (Donquiote is one word)
+- Donquixote Doflamingo (Donquxiote is one word)
 - Dracule "Hawk Eye" Mihawk
 - Eustass "Captain" Kid
 - Enel
@@ -97,6 +97,7 @@ Note: character names are usually in Japanese order. So Family name then Forenam
 - Nefertari
 - Pappag
 - Portgas D. Ace
+- Roronoa Zoro
 - Roshwan Kingdom
 - Rosward
 - Sadi
@@ -110,7 +111,6 @@ Note: character names are usually in Japanese order. So Family name then Forenam
 - Squard
 - Sterry
 - Vasco Shot
-- Roronoa Zoro
 
 ### 1.1.3. Events
  - Reverie
@@ -125,7 +125,7 @@ Note: character names are usually in Japanese order. So Family name then Forenam
 - Loguetown (pun on prologue and epilogue)
 - Mary Geoise (Mariejois reborn)
 - Tarai Current
-- The City of Gold (Shandora is not called El Darado)   
+- The City of Gold (Shandora is not called El Dorado)   
 - Water 7
 - Wheat Island
 
@@ -166,7 +166,7 @@ Note: we currently do not translate attack names if they are in a language other
 - Belly
 - Fishman/Fishmen (refering to people like Jinbe)
 - Poneglyph
-- Sea Kings (not Neptunes)
+- Sea Kings (not Neptunians)
 - The Going Merry (when personified refered to as "she")
 - The Thousand Sunny
 - Transponder Snail

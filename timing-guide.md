@@ -71,14 +71,14 @@ Note: character names are usually in Japanese order. So Family name then Forenam
 - Charlotte Mont d'Or
 - Charlotte Yuen
 - Chouchou
-- Donquixote Doflamingo (Donquxiote is one word)
+- Donquixote Doflamingo (Donquiote is one word)
 - Dracule "Hawk Eye" Mihawk
 - Eustass "Captain" Kid
 - Enel
 - Flampe
 - Fukurou
 - Gecko Moria
-- Gen-san (rather than Genzo)
+- Genzo (Gen-san as a nickname)
 - Gomorrah
 - Ham Burger
 - Hatchan/Hachi
@@ -97,7 +97,6 @@ Note: character names are usually in Japanese order. So Family name then Forenam
 - Nefertari
 - Pappag
 - Portgas D. Ace
-- Roronoa Zoro
 - Roshwan Kingdom
 - Rosward
 - Sadi
@@ -111,6 +110,7 @@ Note: character names are usually in Japanese order. So Family name then Forenam
 - Squard
 - Sterry
 - Vasco Shot
+- Roronoa Zoro
 
 ### 1.1.3. Events
  - Reverie
@@ -125,7 +125,7 @@ Note: character names are usually in Japanese order. So Family name then Forenam
 - Loguetown (pun on prologue and epilogue)
 - Mary Geoise (Mariejois reborn)
 - Tarai Current
-- The City of Gold (Shandora is not called El Dorado)   
+- The City of Gold (Shandora is not called El Darado)   
 - Water 7
 - Wheat Island
 
@@ -158,7 +158,7 @@ Note: we currently do not translate attack names if they are in a language other
 
 - Boundman/Tankman/Snakeman
 - Gear Second / Third / Fourth
-- Haki (do not translate it to "will power")
+- Haki (do not translate it to "will power") The three types are Observation, Armament and Conqueror's Haki.
 - Rubber-Rubber...
 - Shambles
 
@@ -166,7 +166,7 @@ Note: we currently do not translate attack names if they are in a language other
 - Belly
 - Fishman/Fishmen (refering to people like Jinbe)
 - Poneglyph
-- Sea Kings (not Neptunians)
+- Sea Kings (not Neptunes)
 - The Going Merry (when personified refered to as "she")
 - The Thousand Sunny
 - Transponder Snail

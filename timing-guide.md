@@ -71,6 +71,7 @@ Note: character names are usually in Japanese order. So Family name then Forenam
 - Charlotte Mont d'Or
 - Charlotte Yuen
 - Chouchou
+- Donquixote Doflamingo (Donquiote is one word)
 - Dracule "Hawk Eye" Mihawk
 - Eustass "Captain" Kid
 - Enel
@@ -129,6 +130,7 @@ Note: character names are usually in Japanese order. So Family name then Forenam
 - Wheat Island
 
 ### 1.1.5. Titles & Epithets
+- Celestial Dragon(s)/ World Noble(s)
 - Dengeki Blue
 - Five Elder(s)
 - Four Emperors
@@ -152,6 +154,8 @@ Note: Marine is used to reference soldiers of the Navy. While the Navy is the na
 - Smoker is a vice admiral
 
 ### 1.1.7. Abilities
+Note we currently do not translate attack names if they are in a language other than Japanese. E.G. We keep Sanji's and Robin's moves as they are. We also do not translate a move name if it ruins a reference. E.G. Zoro's "Two-Sword Style Rashomon" attack is a reference to a gate of the same name in Kyoto and a famous movie of the same name. To literally translate it would ruin the reference.
+
 - Boundman/Tankman/Snakeman
 - Gear Second / Third / Fourth
 - Haki (do not translate it to "will power")

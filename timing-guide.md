@@ -7,7 +7,7 @@
     + [1.1.3. Events](#113-events)
     + [1.1.4. Locations](#114-locations)
     + [1.1.5. Titles & Epithets](#115-titles--epithets)
-    + [1.1.6. Navy Grammar](#116navy-grammar)
+    + [1.1.6. Navy Grammar](#116-navy-grammar)
     + [1.1.7. Abilities](#117-abilities)
     + [1.1.8. Other](#118-other)
   * [1.2. Sentence spacing](#12-sentence-spacing)
@@ -29,7 +29,7 @@
 ## 1.1. Naming convention
 1) We only consider an update for a name if the pronunciation/ meaning changes.
 
-2) Recent Oda is king, unless a loud majority hate it/ thinks it makes no sense. (mildly prefering or being "used to" another spelling isn't enough).
+2) Recent Oda is king, unless a loud majority hate it/ thinks it makes no sense. (mildly preferring or being "used to" another spelling isn't enough).
 
 3) If there is enough hate, we look to the anime, databooks, Jump and official English versions for alternatives. If we can find none, we can come up with our own interpretation of Oda's new spelling.
 
@@ -48,7 +48,7 @@ Translated to English, while keeping the double noun, like Rubber-Rubber Fruit. 
 - Quake-Quake Fruit 
 
 ### 1.1.2. Characters
-Note: character names are usually in Japanese order. So Family name then Forename. E.G. It's Vinsmoke Sanji, not Sanji Vinsmoke.
+Note: character names are usually in Japanese order. So Family name, then Forename. E.G. It's Vinsmoke Sanji, not Sanji Vinsmoke.
 
 - Aladine
 - Avalo Pizarro
@@ -141,7 +141,7 @@ Note: character names are usually in Japanese order. So Family name then Forenam
 - (The Seven Royal) Warlord(s) (of the Sea)
 
 ### 1.1.6. Navy Grammar
-Note: Marine is used to reference soldiers of the Navy. While the Navy is the name of the organization, which the Marines serve.
+Note: Marine is used to reference soldiers of the Navy, while the Navy is the name of the organization, which the Marines serve.
 
 - The Navy
 - A Navy ship
@@ -164,14 +164,14 @@ Note: we currently do not translate attack names if they are in a language other
 
 ### 1.1.8. Other
 - Belly
-- Fishman/Fishmen (refering to people like Jinbe)
+- Fishman/Fishmen (referring to people like Jinbe)
 - Poneglyph
 - Sea Kings (not Neptunians)
-- The Going Merry (when personified refered to as "she")
+- The Going Merry (when personified referred to as "she")
 - The Thousand Sunny
 - Transponder Snail
-- Merman/Mermen (refering to people like Fukaboshi
-- Mermaid(s) (refering to people like Camie)
+- Merman/Mermen (referring to people like Fukaboshi)
+- Mermaid(s) (referring to people like Camie)
 
 ## 1.2. Sentence spacing
 Sentences are separated by a single space.

@@ -22,12 +22,8 @@
   * [2.3. Others](#23-others)
 - [3. Styling](#3-styling)
   * [3.1. Aegisub Styles](#31-aegisub-styles)
+  * [3.2. Lines](#32-lines)
   * [3.3. Credits](#33-credits)
-- [4. Practices](#4-practices)
-  * [4.1. Lines](#41-lines)
-  * [4.2. Infoboxes](#42-infoboxes)
-    + [4.2.1. Dialogue](#421-dialogue)
-    + [4.2.2. Captions](#422-captions)
 
 # 1. Grammar
 ## 1.1. Naming convention
@@ -88,6 +84,7 @@ Note: character names are usually in Japanese order. So Family name, then Forena
 - Hatchan/Hachi
 - Iceburg
 - Jinbe
+- Jomrul
 - Kaidou
 - Kalifa
 - Karasu
@@ -168,14 +165,15 @@ Note: we currently do not translate attack names if they are in a language other
 
 ### 1.1.8. Other
 - Belly
+- Binks' Sake
 - Fishman/Fishmen (referring to people like Jinbe)
-- Poneglyph
-- Sea Kings (not Neptunians)
-- The Going Merry (when personified referred to as "she")
-- The Thousand Sunny
-- Transponder Snail
+- Going Merry (when personified referred to as "she")
 - Merman/Mermen (referring to people like Fukaboshi)
 - Mermaid(s) (referring to people like Camie)
+- Poneglyph
+- Sea Kings (not Neptunians)
+- Thousand Sunny
+- Transponder Snail
 
 ## 1.2. Sentence spacing
 Sentences are separated by a single space.
@@ -226,7 +224,11 @@ The number format to follow is `10,500,000.00`.
 - Credits: Opening credits.
 - Narrator: For when the narrator is speaking.
 
-## 3.2. Credits
+## 3.2. Lines
+- Lines may never be over two rows. Lines that exceed two rows should be rephrased or split into two.
+- Each line may only contain one character's dialog. If multiple characters are speaking at the same time, use the Secondary style.
+
+## 3.3. Credits
 These are the official names of the different roles and credits for the openings:
 - Editor
 - QCer
@@ -236,21 +238,3 @@ These are the official names of the different roles and credits for the openings
 - Infobox maker
 - Soundtracker
 - Raw provider
-
-# 4. Practices
-## 4.1. Lines
-- Lines may never be over two rows. Lines that exceed two rows should be rephrased or split into two.
-- Each line may only contain one character's dialog. If multiple characters are speaking at the same time, use the Secondary style.
-
-## 4.2. Infoboxes
-### 4.2.1. Dialogue
-a. For dialogue during infoboxes and captions, if the dialogue line is one line, put it under the infobox with vertical alignment `0`.
-
-b. If the dialogue line is two lines. Place it at the top with `\an8`.
-
-### 4.2.2. Captions
-a. Captions are to use the `Caption` style (See above).
-  
-b. For character infoboxes that are placed bottom centre, put the captions above the infobox, closely matching the line breaks and the font sizes in the Japanese text inside the infobox.
-
-c. For location infoboxes, make sure the caption fits horizontally within the infobox, then place it either above or below the infobox (never to the side). Make sure the font size and line breaks match the Japanese text inside the infobox.

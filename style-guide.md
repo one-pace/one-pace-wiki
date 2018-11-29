@@ -75,7 +75,9 @@ Note: character names are usually in Japanese order. So Family name, then Forena
 - Charlotte Mont d'Or
 - Charlotte Yuen
 - Chouchou
-- Donquixote Doflamingo (Donquxiote is one word)
+- Corazón
+- Donquixote Doflamingo (Donquixote is one word)
+- Donquixote Rosinante
 - Dracule "Hawk Eye" Mihawk
 - Eustass "Captain" Kid
 - Enel
@@ -87,6 +89,8 @@ Note: character names are usually in Japanese order. So Family name, then Forena
 - Ham Burger
 - Hatchan/Hachi
 - Iceburg
+- Inuarashi
+- Jailer Beast(s)
 - Jinbe
 - Kaidou
 - Kalifa
@@ -99,6 +103,7 @@ Note: character names are usually in Japanese order. So Family name, then Forena
 - Marshall D. Teach
 - Morley
 - Nefertari
+- Nekomamushi
 - Pappag
 - Portgas D. Ace
 - Roronoa Zoro
@@ -106,6 +111,7 @@ Note: character names are usually in Japanese order. So Family name, then Forena
 - Rosward
 - Sadi
 - Sanjuan Wolf
+- Senor Pink (without the ñ)
 - Sentomaru
 - Shakuyaku (Shakky nickname)
 - Shalria
@@ -114,6 +120,7 @@ Note: character names are usually in Japanese order. So Family name, then Forena
 - Sodom
 - Squard
 - Sterry
+- Trebol (without an accent)
 - Vasco Shot
 
 ### 1.1.3. Events
@@ -126,10 +133,12 @@ Note: character names are usually in Japanese order. So Family name, then Forena
 - Cocoyasi Village
 - Dressrosa
 - Elbaf
+- Kano Country
 - Loguetown (pun on prologue and epilogue)
 - Mary Geoise (Mariejois reborn)
 - Tarai Current
-- The City of Gold (Shandora is not called El Dorado)   
+- The City of Gold (Shandora is not called El Dorado)
+- Wano Country (Can also be just Wano)
 - Water 7
 - Wheat Island
 
@@ -160,9 +169,10 @@ Note: Marine is used to reference soldiers of the Navy, while the Navy is the na
 ### 1.1.7. Abilities
 Note: we currently do not translate attack names if they are in a language other than Japanese. E.G. We keep Sanji's and Robin's moves as they are. We also do not translate a move name if a literal translation ruins a reference. E.G. Zoro's "Two-Sword Style Rashomon" attack is a reference to a gate of the same name in Kyoto and a famous movie.
 
-- Boundman/Tankman/Snakeman
+- Boundman / Tankman / Snakeman
 - Gear Second / Third / Fourth
 - Haki (do not translate it to "will power") The three types are Observation, Armament and Conqueror's Haki.
+- One-Sword Style / Two-Swords Style / Three-Swords Style
 - Rubber-Rubber...
 - Shambles
 
@@ -174,7 +184,7 @@ Note: we currently do not translate attack names if they are in a language other
 - Mermaid(s) (referring to people like Camie)
 - Poneglyph
 - Sea Kings (not Neptunians)
-- Thousand Sunny
+- Thousand Sunny (when personified referred to as "she")
 - Transponder Snail
 
 ## 1.2. Sentence spacing

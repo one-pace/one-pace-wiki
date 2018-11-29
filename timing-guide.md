@@ -169,13 +169,13 @@ Note: we currently do not translate attack names if they are in a language other
 ### 1.1.8. Other
 - Belly
 - Fishman/Fishmen (referring to people like Jinbe)
-- Poneglyph
-- Sea Kings (not Neptunians)
-- The Going Merry (when personified referred to as "she")
-- The Thousand Sunny
-- Transponder Snail
+- Going Merry (when personified referred to as "she")
 - Merman/Mermen (referring to people like Fukaboshi)
 - Mermaid(s) (referring to people like Camie)
+- Poneglyph
+- Sea Kings (not Neptunians)
+- Thousand Sunny
+- Transponder Snail
 
 ## 1.2. Sentence spacing
 Sentences are separated by a single space.

@@ -22,7 +22,7 @@
   * [2.3. Others](#23-others)
 - [3. Styling](#3-styling)
   * [3.1. Aegisub Styles](#31-aegisub-styles)
-  * [3.3. Credits](#33-credits)
+  * [3.2. Credits](#32-credits)
 - [4. Practices](#4-practices)
   * [4.1. Lines](#41-lines)
   * [4.2. Infoboxes](#42-infoboxes)
@@ -249,7 +249,7 @@ These are the official names of the different roles and credits for the openings
 - Graphics/Graphics Artist
 - Karaoke
 - Soundtracking/Soundtracker
-- Raws/Raw provider
+- Raws/Raw Provider
 
 # 4. Practices
 ## 4.1. Lines

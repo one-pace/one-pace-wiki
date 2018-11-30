@@ -241,14 +241,15 @@ The number format to follow is `10,500,000.00`.
 
 ## 3.2. Credits
 These are the official names of the different roles and credits for the openings:
-- Editor
-- QCer
-- Translator
-- Timer
-- Visual Effects Artist
-- Infobox maker
-- Soundtracker
-- Raw provider
+- Editing/Editor
+- Quality Control/QC
+- Translation/Translator
+- Timing/Timer
+- Visual Effects/Visual Effects Artist
+- Graphics/Graphics Artist
+- Karaoke
+- Soundtracking/Soundtracker
+- Raws/Raw provider
 
 # 4. Practices
 ## 4.1. Lines

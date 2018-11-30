@@ -31,11 +31,9 @@
 
 # 1. Grammar
 ## 1.1. Naming convention
-1) We only consider an update for a name if the pronunciation/ meaning changes.
-
-2) Recent Oda is king, unless a loud majority hate it/ thinks it makes no sense. (mildly preferring or being "used to" another spelling isn't enough).
-
-3) If there is enough hate, we look to the anime, databooks, Jump and official English versions for alternatives. If we can find none, we can come up with our own interpretation of Oda's new spelling.
+1. We only consider an update for a name if the pronunciation/ meaning changes.
+2. Recent Oda is king, unless a loud majority hate it/ thinks it makes no sense. (mildly preferring or being "used to" another spelling isn't enough).
+3. If there is enough hate, we look to the anime, databooks, Jump and official English versions for alternatives. If we can find none, we can come up with our own interpretation of Oda's new spelling.
 
 ### 1.1.1. Devil Fruits
 Translated to English, while keeping the double noun, like Rubber-Rubber Fruit. The hyphen is always present in the name of the fruit and attack. Furthermore, while Japanese names are translated, exceptions are made for specifically Japanese attacks such as Zoro's Onigiri or Katakuri's Mochi.
@@ -254,18 +252,15 @@ These are the official names of the different roles and credits for the openings
 
 # 4. Practices
 ## 4.1. Lines
-- Lines may never be over two rows. Lines that exceed two rows should be rephrased or split into two.
-- Each line may only contain one character's dialog. If multiple characters are speaking at the same time, use the Secondary style.
+1. Lines may never be over two rows. Lines that exceed two rows should be rephrased or split into two.
+2. Each line may only contain one character's dialog. If multiple characters are speaking at the same time, use the Secondary style.
 
 ## 4.2. Infoboxes
 ### 4.2.1. Dialogue
-a. For dialogue during infoboxes and captions, if the dialogue line is one line, put it under the infobox with vertical alignment `0`.
-
-b. If the dialogue line is two lines. Place it at the top with `\an8`.
+1. For dialogue during infoboxes and captions, if the dialogue line is one line, put it under the infobox with vertical alignment `0`.
+2. If the dialogue line is two lines. Place it at the top with `\an8`.
 
 ### 4.2.2. Captions
-a. Captions are to use the `Caption` style (See above).
-  
-b. For character infoboxes that are placed bottom centre, put the captions above the infobox, closely matching the line breaks and the font sizes in the Japanese text inside the infobox.
-
-c. For location infoboxes, make sure the caption fits horizontally within the infobox, then place it either above or below the infobox (never to the side). Make sure the font size and line breaks match the Japanese text inside the infobox.
+1. Captions are to use the `Captions` style (See above).
+2. For character infoboxes that are placed bottom centre, put the captions above the infobox, closely matching the line breaks and the font sizes in the Japanese text inside the infobox.
+3. For location infoboxes, make sure the caption fits horizontally within the infobox, then place it either above or below the infobox (never to the side). Make sure the font size and line breaks match the Japanese text inside the infobox.

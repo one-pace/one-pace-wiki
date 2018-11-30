@@ -56,7 +56,6 @@ Note: character names are usually in Japanese order. So Family name, then Forena
 
 - Aladine
 - Avalo Pizarro
-- Mountain Beard / Waterfall Beard
 - Beer VI
 - Bell-mère
 - Belo Betty
@@ -92,9 +91,9 @@ Note: character names are usually in Japanese order. So Family name, then Forena
 - Iceburg
 - Inuarashi
 - Jailer Beast(s)
-- Jarl
+- Jarl (Mountain Beard)
 - Jinbe
-- Jorl
+- Jorl (Waterfall Beard)
 - Kaidou
 - Kalifa
 - Karasu

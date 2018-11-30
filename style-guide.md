@@ -56,6 +56,7 @@ Note: character names are usually in Japanese order. So Family name, then Forena
 
 - Aladine
 - Avalo Pizarro
+- Mountain Beard / Waterfall Beard
 - Beer VI
 - Bell-mère
 - Belo Betty
@@ -91,7 +92,9 @@ Note: character names are usually in Japanese order. So Family name, then Forena
 - Iceburg
 - Inuarashi
 - Jailer Beast(s)
+- Jarl
 - Jinbe
+- Jorl
 - Kaidou
 - Kalifa
 - Karasu
@@ -130,14 +133,15 @@ Note: character names are usually in Japanese order. So Family name, then Forena
 ### 1.1.4. Locations
 - Arabasta
 - Cacao Island
+- City of Gold (Shandora is not called El Dorado)
 - Cocoyasi Village
 - Dressrosa
 - Elbaf
 - Kano Country
 - Loguetown (pun on prologue and epilogue)
 - Mary Geoise (Mariejois reborn)
+- Sheep's House
 - Tarai Current
-- The City of Gold (Shandora is not called El Dorado)
 - Wano Country (Can also be just Wano)
 - Water 7
 - Wheat Island
@@ -149,6 +153,7 @@ Note: character names are usually in Japanese order. So Family name, then Forena
 - Four Emperors
 - God (Enel's Self proclaimed title, do not use Sky King or Kami)
 - Knight of the Sea (not First Son of the Sea)
+- Mountain Witch
 - Pirate King (depending on context, "King of the Pirates" can be appropriate)
 - Shipwrights (not carpenter) 
 - (The Seven Royal) Warlord(s) (of the Sea)
@@ -178,6 +183,7 @@ Note: we currently do not translate attack names if they are in a language other
 
 ### 1.1.8. Other
 - Belly
+- Binks' Sake
 - Fishman/Fishmen (referring to people like Jinbe)
 - Going Merry (when personified referred to as "she")
 - Merman/Mermen (referring to people like Fukaboshi)

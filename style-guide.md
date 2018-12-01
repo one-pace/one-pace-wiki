@@ -57,7 +57,6 @@ Note: character names are usually in Japanese order. So Family name, then Forena
 - Beer VI
 - Bell-mère
 - Belo Betty
-- Binks' Sake
 - Black Leg Sanji
 - Bon Kurei
 - Buchi
@@ -77,6 +76,7 @@ Note: character names are usually in Japanese order. So Family name, then Forena
 - Donquixote Doflamingo (Donquixote is one word)
 - Donquixote Rosinante
 - Dracule "Hawk Eye" Mihawk
+- Dr. Hiriluk
 - Eustass "Captain" Kid
 - Enel
 - Flampe
@@ -92,9 +92,11 @@ Note: character names are usually in Japanese order. So Family name, then Forena
 - Jarl (Mountain Beard)
 - Jinbe
 - Jorl (Waterfall Beard)
+- Jozu
 - Kaidou
 - Kalifa
 - Karasu
+- Karoo
 - Kashi
 - King Baum
 - Koby

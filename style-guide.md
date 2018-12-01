@@ -250,7 +250,7 @@ These are the official names of the different roles and credits for the openings
 - Timing/Timer
 - Visual Effects/Visual Effects Artist
 - Graphics/Graphics Artist
-- Karaoke
+- Karaoke/K-Timer
 - Soundtracking/Soundtracker
 - Raws/Raw Provider
 

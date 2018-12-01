@@ -124,8 +124,10 @@ Note: character names are usually in Japanese order. So Family name, then Forena
 - Vasco Shot
 
 ### 1.1.3. Events
- - Reverie
- - Summit War
+- Great Pirate Era
+- New Age
+- Reverie
+- Summit War
 
 ### 1.1.4. Locations
 - Arabasta
@@ -145,14 +147,14 @@ Note: character names are usually in Japanese order. So Family name, then Forena
 
 ### 1.1.5. Titles & Epithets
 - Celestial Dragon(s)/ World Noble(s)
-- Dengeki Blue
+- Electric Blue (Niji)
 - Five Elder(s)
 - Four Emperors
 - God (Enel's Self proclaimed title, do not use Sky King or Kami)
 - Knight of the Sea (not First Son of the Sea)
 - Mountain Witch
 - Pirate King (depending on context, "King of the Pirates" can be appropriate)
-- Shipwrights (not carpenter) 
+- Shipwright (not carpenter) 
 - (The Seven Royal) Warlord(s) (of the Sea)
 
 ### 1.1.6. Navy Grammar
@@ -187,6 +189,7 @@ Note: we currently do not translate attack names if they are in a language other
 - Mermaid(s) (referring to people like Camie)
 - Poneglyph
 - Sea Kings (not Neptunians)
+- Seastone (doesn't need to be capitalized)
 - Thousand Sunny (when personified referred to as "she")
 - Transponder Snail
 

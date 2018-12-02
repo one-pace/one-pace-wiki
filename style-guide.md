@@ -62,7 +62,6 @@ Note: character names are usually in Japanese order. So Family name, then Forena
 - Buchi
 - Camie
 - Carmel
-- Carue
 - Catarina Devon
 - Charlos
 - Charlotte Brûlée

@@ -86,7 +86,9 @@ Note: character names are usually in Japanese order. So Family name, then Forena
 - Gomorrah
 - Ham Burger
 - Hatchan/Hachi
+- Hody Jones
 - Iceburg
+- Imu 
 - Inuarashi
 - Jailer Beast(s)
 - Jarl (Mountain Beard)
@@ -128,6 +130,7 @@ Note: character names are usually in Japanese order. So Family name, then Forena
 ### 1.1.3. Events
 - Great Pirate Era
 - New Age
+- Payback War
 - Reverie
 - Summit War
 

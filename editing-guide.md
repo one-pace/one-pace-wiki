@@ -24,7 +24,7 @@ These are the project settings that **all** Vegas project **must have** before s
 
 - Resolution: 1280x720 for HD episodes (207+); 640x480 for SD episodes (1-206)
 - Pixel aspect ratio: 1.0000
-- Frame rate: 60.000
+- Frame rate: 59.940
 - Field order: None (Progressive scan)
 - Deinterlace method: None
 - Resample mode: Disable resample

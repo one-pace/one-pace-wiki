@@ -35,10 +35,10 @@
 Note: With the exception of certain attacks, we generally translate everything into English unless it is a name. This means that popular phrases like Nakama will be replaced with something like crewmate, friend or comrade. See the list below for a more detailed breakdown of what we use for more disputed translations.   
 
 The following are our guiding principles outlining when we consider updating or deciding on a name:
-1. We only consider an update for a name if the pronunciation/meaning changes or if a name has never had an official spelling before.
+1. We usually only consider an update for a name if the pronunciation/meaning changes or if a name has never had an official spelling before.
 2. Oda romanizations take the highest priority unless a loud majority hate it/thinks it makes no sense. (mildly preferring or being "used to" another spelling isn't enough). When Oda is inconsistent, the more recent and the more prevalent spelling takes precedence.
 3. Second priority is official databooks, vivre cards and Jump.
-4. If all else fails we can look to the anime, official English translations (Viz/Funi etc), Fan translations or come up with our own.
+4. If all else fails we can look to the anime, official English translations (Viz/Funi etc), Fan translations or come up with our own romanization.
 
 ### 1.1.1. Devil Fruits
 Translated to English, while keeping the double noun, like Rubber-Rubber Fruit. The hyphen is always present in the name of the fruit and attack. Furthermore, while Japanese names are translated, exceptions are made for specifically Japanese attacks such as Zoro's Onigiri or Katakuri's Mochi.
@@ -191,13 +191,16 @@ Note: we currently do not translate attack names if they are in a language other
 - Gear Second / Third / Fourth
 - Haki (do not translate it to "will power") The three types are Observation, Armament and Conqueror's Haki.
 - One-Sword Style / Two-Swords Style / Three-Swords Style
+- Oni Giri
 - Rubber-Rubber...
 - Shambles
 
 ### 1.1.8. Weapons
 - Clima-Tact
+- Grade Swords / Skillful Grade Swords / Great Grade Swords / Supreme Grade Swords
 - Gryphon
-- Sandai Kitetsu/Nidai Kitetsu/Shodai Kitetsu
+- Named Blade (for Meito)
+- Sandai Kitetsu / Nidai Kitetsu / Shodai Kitetsu
 
 ### 1.1.9. Other
 - Belly

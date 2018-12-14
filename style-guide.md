@@ -34,7 +34,7 @@
 ## 1.1. Naming convention
 Note: With the exception of certain attacks, we generally translate everything into English unless it is a name. This means that popular phrases like Nakama will be replaced with something like crewmate, friend or comrade. See the list below for a more detailed breakdown of what we use for more disputed translations.   
 
-The following is our guiding principle outlining when we consider updating or deciding on a name:
+The following are our guiding principles outlining when we consider updating or deciding on a name:
 1. We only consider an update for a name if the pronunciation/meaning changes or if a name has never had an official spelling before.
 2. Oda romanizations take the highest priority unless a loud majority hate it/thinks it makes no sense. (mildly preferring or being "used to" another spelling isn't enough). When Oda is inconsistent, the more recent and the more prevalent spelling takes precedence.
 3. Second priority is official databooks, vivre cards and Jump.

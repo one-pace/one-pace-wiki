@@ -34,7 +34,7 @@
 Note: With the exception of certain attacks,we generally translate everything into English, unless it is a name. This means that popular phrases like Nakama will be replaced with something like crewmate, friend or comrade. See the list below for a more detailed breakdown of what we use for more disputed translations.   
 
 The following are our rules, outlining when we consider updating a name:
-1. We only consider an update for a name if the pronunciation/ meaning changes. Or if a name has never had an official spelling before.
+1. We only consider an update for a name if the pronunciation/ meaning changes or if a name has never had an official spelling before.
 2. Recent Oda is king, unless a loud majority hate it/ thinks it makes no sense. (mildly preferring or being "used to" another spelling isn't enough).
 3. If there is enough hate, we look to the anime, databooks, Jump and official English versions for alternatives. If we can find none, we can come up with our own interpretation of Oda's new spelling.
 
@@ -160,7 +160,7 @@ Note: Character names are usually in Japanese order. So Family name, then Forena
 - Celestial Dragon(s)/ World Noble(s)
 - Electric Blue (Niji)
 - Father (For Bege, instead of Godfather)
-- Five Elder(s)
+- (The)Five Elder(s)
 - (The Four) Emperor(s)
 - God (Enel's Self proclaimed title, do not use Sky King or Kami)
 - Knight of the Sea (not First Son of the Sea)

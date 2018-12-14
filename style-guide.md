@@ -31,7 +31,7 @@
 
 # 1. Grammar
 ## 1.1. Naming convention
-Note: With the exception of certain attacks,we generally translate everything into English, unless it is a name. This means that popular phrases like Nakama will be replaced with something like crewmate, friend or comrade. See the list below for a more detailed breakdown of what we use for more disputed translations.   
+Note: With the exception of certain attacks, we generally translate everything into English unless it is a name. This means that popular phrases like Nakama will be replaced with something like crewmate, friend or comrade. See the list below for a more detailed breakdown of what we use for more disputed translations.   
 
 The following are our rules, outlining when we consider updating a name:
 1. We only consider an update for a name if the pronunciation/ meaning changes or if a name has never had an official spelling before.
@@ -137,7 +137,7 @@ Note: Character names are usually in Japanese order. So Family name, then Forena
 - Payback War
 - Reverie
 - Summit War
-- (The) Void Century
+- Void Century
 
 ### 1.1.4. Locations
 - Arabasta
@@ -196,10 +196,10 @@ Note: we currently do not translate attack names if they are in a language other
 ### 1.1.8. Other
 - Belly
 - Binks' Sake
-- Devil Fruit User (as oppsed to eater or something)
-- First Mate (instead of vice captain)
+- Devil Fruit user (as opposed to eater or something)
+- First mate (instead of vice captain)
 - Fishman/Fishmen (referring to people like Jinbe)
-- Log Pose/Eternal Post (not grand compass)
+- Log Pose/Eternal Pose (not grand compass)
 - Going Merry (when personified referred to as "she")
 - Merman/Mermen (referring to people like Fukaboshi)
 - Mermaid(s) (referring to people like Camie)
@@ -243,7 +243,7 @@ The number format to follow is `10,500,000.00`.
 - Decimal separator: `.`
 
 ## 2.3. Others
-Note: We generally do not sub things like laughs. 
+Note: We generally do not subtitle onomatopoeia. 
 - Measurement: Metric
 - Time: 12-hour clock (AM/PM)
 - Temperature: Celsius

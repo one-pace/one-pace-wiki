@@ -9,7 +9,8 @@
     + [1.1.5. Titles & Epithets](#115-titles--epithets)
     + [1.1.6. Navy Grammar](#116-navy-grammar)
     + [1.1.7. Abilities](#117-abilities)
-    + [1.1.8. Other](#118-other)
+    + [1.1.8. Weapons](#118-weapons)
+    + [1.1.9. Other](#118-other)
   * [1.2. Sentence spacing](#12-sentence-spacing)
   * [1.3. Honorifics](#13-honorifics)
   * [1.4. Ellipses](#14-ellipses)
@@ -33,10 +34,11 @@
 ## 1.1. Naming convention
 Note: With the exception of certain attacks, we generally translate everything into English unless it is a name. This means that popular phrases like Nakama will be replaced with something like crewmate, friend or comrade. See the list below for a more detailed breakdown of what we use for more disputed translations.   
 
-The following are our rules, outlining when we consider updating a name:
-1. We only consider an update for a name if the pronunciation/ meaning changes or if a name has never had an official spelling before.
-2. Recent Oda is king, unless a loud majority hate it/ thinks it makes no sense. (mildly preferring or being "used to" another spelling isn't enough).
-3. If there is enough hate, we look to the anime, databooks, Jump and official English versions for alternatives. If we can find none, we can come up with our own interpretation of Oda's new spelling.
+The following are our guiding principles outlining when we consider updating or deciding on a name:
+1. We usually only consider an update for a name if the pronunciation/meaning changes or if a name has never had an official spelling before.
+2. Oda romanizations take the highest priority unless a loud majority hate it/thinks it makes no sense. (mildly preferring or being "used to" another spelling isn't enough). When Oda is inconsistent, the more recent and the more prevalent spelling takes precedence.
+3. Second priority is official databooks, vivre cards and Jump.
+4. If all else fails we can look to the anime, official English translations (Viz/Funi etc), Fan translations or come up with our own romanization.
 
 ### 1.1.1. Devil Fruits
 Translated to English, while keeping the double noun, like Rubber-Rubber Fruit. The hyphen is always present in the name of the fruit and attack. Furthermore, while Japanese names are translated, exceptions are made for specifically Japanese attacks such as Zoro's Onigiri or Katakuri's Mochi.
@@ -62,19 +64,17 @@ Note: Character names are usually in Japanese order. So Family name, then Forena
 - Belo Betty
 - Black Leg Sanji
 - Bon Kurei
-- Branch (Luffy's nickname for Brulee)
 - Buchi
 - Camie
 - Carmel
 - Catarina Devon
 - Charlos
-- Charlotte Brûlée
+- Charlotte Brûlée (Nicknamed Branch)
 - Charlotte Dragée
 - Charlotte Katakuri (Dogtooth is BULLSHIT)
 - Charlotte Linlin/Big Mom
 - Charlotte Mont d'Or
 - Charlotte Yuen
-- Chobro (Carrot's nickname for Chopper)
 - Chouchou
 - Corazón
 - Donquixote Doflamingo (Donquixote is one word)
@@ -121,13 +121,14 @@ Note: Character names are usually in Japanese order. So Family name, then Forena
 - Sanjuan Wolf
 - Senor Pink (without the ñ)
 - Sentomaru
-- Shakuyaku (Shakky nickname)
+- Shakuyaku (Nicknamed Shakky)
 - Shalria
 - Sham
 - Shiryu
 - Sodom
 - Squard
 - Sterry
+- Tony Tony Chopper (Nicknamed Chobro)
 - Trebol (without an accent)
 - Vasco Shot
 
@@ -184,16 +185,24 @@ Note: Marine is used to reference soldiers of the Navy, while the Navy is the na
 - Smoker is a vice admiral
 
 ### 1.1.7. Abilities
-Note: we currently do not translate attack names if they are in a language other than Japanese. E.G. We keep Sanji's and Robin's moves as they are. We also do not translate a move name if a literal translation ruins a reference. E.G. Zoro's "Two-Sword Style Rashomon" attack is a reference to a gate of the same name in Kyoto and a famous movie.
+Note: we currently do not translate attack names if they are in a language other than Japanese. E.G. We keep Sanji's and Robin's moves as they are. We also do not translate a move name if a literal translation ruins a reference. E.G. Zoro's "Two-Swords Style Rashomon" attack is a reference to a gate of the same name in Kyoto and a famous movie.
 
 - Boundman / Tankman / Snakeman
 - Gear Second / Third / Fourth
 - Haki (do not translate it to "will power") The three types are Observation, Armament and Conqueror's Haki.
 - One-Sword Style / Two-Swords Style / Three-Swords Style
+- Oni Giri
 - Rubber-Rubber...
 - Shambles
 
-### 1.1.8. Other
+### 1.1.8. Weapons
+- Clima-Tact
+- Grade Swords / Skillful Grade Swords / Great Grade Swords / Supreme Grade Swords
+- Gryphon
+- Named Blade (for Meito)
+- Sandai Kitetsu / Nidai Kitetsu / Shodai Kitetsu
+
+### 1.1.9. Other
 - Belly
 - Binks' Sake
 - Devil Fruit user (as opposed to eater or something)

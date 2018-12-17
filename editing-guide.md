@@ -11,10 +11,11 @@
     + [4.3.2. Video codec](#432-video-codec)
     + [4.3.3. Compressing](#433-compressing)
 - [5. Editing](#5-editing)
-  * [5.1. Editing music](#51-editing-music)
-  * [5.2. Handling transitions](#52-handling-transitions)
-  * [5.3. Following the mood](#53-following-the-mood)
-  * [5.4. Still shots](#54-still-shots)
+  * [5.1. Timeline](#51-timeline)
+  * [5.2. Editing music](#52-editing-music)
+  * [5.3. Handling transitions](#53-handling-transitions)
+  * [5.4. Following the mood](#54-following-the-mood)
+  * [5.5. Still shots](#55-still-shots)
 
 # 1. Tools
 These are the tools that you will need as an editor:
@@ -28,6 +29,11 @@ These are the tools that you will need as an editor:
 For version control, we're using GitHub Desktop. Commit every time you finish a cut or performed any work that can be described in one sentence, e.g. "Removed filler scene", "Fixed popping noise", "Shortened lengthy sequence". The commit messages should be detailed enough that any editor can simply look in the history and know exactly what's changed. This is extra important since the .veg project files are binaries, meaning the file diffs aren't displayed. Do not include any changes in your commit that aren't related to the commit message.
 
 Each episode is separated into its own branch, following the GitHub naming convention of lowercase words separated by dashes, e.g. "whole-cake-island-23", "marineford-09", "romance-dawn-02". Branches are only merged after release, and are then deleted.
+
+To learn more on the GitHub flow and GitHub Desktop, please check these articles:
+- https://guides.github.com/introduction/flow/
+- https://help.github.com/desktop/guides/getting-started-with-github-desktop/
+- https://help.github.com/desktop/guides/contributing-to-projects/
 
 ## 2.1. GitHub Desktop
 This is how to set up and use GitHub Desktop:

@@ -1,6 +1,7 @@
 # Table of Contents
 - [1. Tools](#1-tools)
 - [2. Version control](#2-version-control)
+  * [2.1. GitHub Desktop](#21-github-desktop)
 - [3. Source material containers](#3-source-material-containers)
 - [4. Configuration](#4-configuration)
   * [4.1. Project configuration](#41-project-configuration)
@@ -27,6 +28,22 @@ These are the tools that you will need as an editor:
 For version control, we're using GitHub Desktop. Commit every time you finish a cut or performed any work that can be described in one sentence, e.g. "Removed filler scene", "Fixed popping noise", "Shortened lengthy sequence". The commit messages should be detailed enough that any editor can simply look in the history and know exactly what's changed. This is extra important since the .veg project files are binaries, meaning the file diffs aren't displayed. Do not include any changes in your commit that aren't related to the commit message.
 
 Each episode is separated into its own branch, following the GitHub naming convention of lowercase words separated by dashes, e.g. "whole-cake-island-23", "marineford-09", "romance-dawn-02". Branches are only merged after release, and are then deleted.
+
+## 2.1. GitHub Desktop
+This is how to set up and use GitHub Desktop:
+
+1. Download, install, and open GitHub Desktop: https://desktop.github.com/
+2. File -> Options -> Accounts, make sure you're signed in. Otherwise, sign in with your GitHub account.
+3. File -> Clone Repository -> URL -> https://github.com/one-pace/one-pace-projects -> Clone
+4. Wait while it downloads everything.
+5. You should see something like this: ![](https://i.imgur.com/fdZcEZL.png)
+6. Click on "Current branch, master" button. You should see all the branches in a list like this: ![](https://i.imgur.com/D3cJirF.png). Click on the branch you're currently working on, let's say wci24 for this example.
+7. You're now ready to start editing wci24. As you're editing and saving you'll see changes appearing in GitHub Desktop, like this: ![](https://i.imgur.com/jHfTSJC.png)
+8. See [above](#2-version-control) how often to commit, what messages to use, etc.
+9. After you've commited, it'll look like this: ![](https://i.imgur.com/f2FzJak.png)
+10. Press push origin to push your changes to the GitHub server.
+11. Good practice is to rebase after every push to fetch the latest changes from master. Press Ctrl+Shift+U to do this.
+12. When an episode has been released, it's time to merge it into master. Press Ctrl+R to get sent to the web interface and create a pull request.
 
 # 3. Source material containers
 Source material containers, also called **Episode vegs**, help manage and control the source material used. Source material containers can crop unwanted black borders, globally adjust the volume of the source material, and host subtitle regions that can later be viewed and exported in the project. Doing these video changes manually in a project instead is unsustainable because it's not guaranteed that it's the only project that will use that source material.

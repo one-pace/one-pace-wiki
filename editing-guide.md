@@ -1,56 +1,98 @@
 # Table of Contents
 - [1. Tools](#1-tools)
-- [2. Source material containers](#2-source-material-containers)
-- [3. Configuration](#3-configuration)
-  * [3.1. Project configuration](#31-project-configuration)
-  * [3.2. Rendering configuration](#32-rendering-configuration)
-  * [3.3. Compression configuration](#33-compression-configuration)
-    + [3.3.1. Frame rate](#331-frame-rate)
-    + [3.3.2. Video codec](#332-video-codec)
-    + [3.3.3. Compressing](#333-compressing)
-- [4. Practices](#4-practices)
-  * [4.1. Editing music](#41-editing-music)
-  * [4.2. Handling transitions](#42-handling-transitions)
-  * [4.3. Following the mood](#43-following-the-mood)
-  * [4.4. Still shots](#44-still-shots)
+- [2. Version control](#2-version-control)
+  * [2.1. GitHub Desktop](#21-github-desktop)
+- [3. Source material containers](#3-source-material-containers)
+- [4. Configuration](#4-configuration)
+  * [4.1. Project configuration](#41-project-configuration)
+  * [4.2. Rendering configuration](#42-rendering-configuration)
+  * [4.3. Compression configuration](#43-compression-configuration)
+    + [4.3.1. Frame rate](#431-frame-rate)
+    + [4.3.2. Video codec](#432-video-codec)
+    + [4.3.3. Compressing](#433-compressing)
+- [5. Editing](#5-editing)
+  * [5.1. Timeline](#51-timeline)
+  * [5.2. Editing music](#52-editing-music)
+  * [5.3. Handling transitions](#53-handling-transitions)
+  * [5.4. Following the mood](#54-following-the-mood)
+  * [5.5. Still shots](#55-still-shots)
 
 # 1. Tools
-# 2. Source material containers
+These are the tools that you will need as an editor:
+- Vegas Pro 14.0
+- FFmpeg
+- Nextcloud
+- git
+- GitHub Desktop
+
+# 2. Version control
+For version control, we're using GitHub Desktop. Commit every time you finish a cut or performed any work that can be described in one sentence, e.g. "Removed filler scene", "Fixed popping noise", "Shortened lengthy sequence". The commit messages should be detailed enough that any editor can simply look in the history and know exactly what's changed. This is extra important since the .veg project files are binaries, meaning the file diffs aren't displayed. Do not include any changes in your commit that aren't related to the commit message.
+
+Each episode is separated into its own branch, following the GitHub naming convention of lowercase words separated by dashes, e.g. "whole-cake-island-23", "marineford-09", "romance-dawn-02". Branches are only merged after release, and are then deleted.
+
+To learn more on the GitHub flow and GitHub Desktop, please check these articles:
+- https://guides.github.com/introduction/flow/
+- https://help.github.com/desktop/guides/getting-started-with-github-desktop/
+- https://help.github.com/desktop/guides/contributing-to-projects/
+
+## 2.1. GitHub Desktop
+This is how to set up and use GitHub Desktop:
+
+1. Download, install, and open GitHub Desktop: https://desktop.github.com/
+2. File -> Options -> Accounts, make sure you're signed in. Otherwise, sign in with your GitHub account.
+3. File -> Clone Repository -> URL -> https://github.com/one-pace/one-pace-projects -> Clone
+4. Wait while it downloads everything.
+5. You should see something like this: ![](https://i.imgur.com/fdZcEZL.png)
+6. Click on "Current branch, master" button. You should see all the branches in a list like this: ![](https://i.imgur.com/D3cJirF.png). Click on the branch you're currently working on, let's say wci24 for this example.
+7. You're now ready to start editing wci24. As you're editing and saving you'll see changes appearing in GitHub Desktop, like this: ![](https://i.imgur.com/jHfTSJC.png)
+8. See [above](#2-version-control) how often to commit, what messages to use, etc.
+9. After you've commited, it'll look like this: ![](https://i.imgur.com/f2FzJak.png)
+10. Press push origin to push your changes to the GitHub server.
+11. Good practice is to rebase after every push to fetch the latest changes from master. Press Ctrl+Shift+U to do this.
+12. When an episode has been released, it's time to merge it into master. Press Ctrl+R to get sent to the web interface and create a pull request.
+
+# 3. Source material containers
 Source material containers, also called **Episode vegs**, help manage and control the source material used. Source material containers can crop unwanted black borders, globally adjust the volume of the source material, and host subtitle regions that can later be viewed and exported in the project. Doing these video changes manually in a project instead is unsustainable because it's not guaranteed that it's the only project that will use that source material.
 
-# 3. Configuration
-## 3.1. Project configuration
+# 4. Configuration
+## 4.1. Project configuration
 These are the project settings that **all** Vegas project **must have** before starting editing.
+![](https://i.imgur.com/VxWZ2Po.png)
 
-- Resolution: 1280x720 for HD episodes (207+); 640x480 for SD episodes (1-206)
-- Pixel aspect ratio: 1.0000
-- Frame rate: 59.940
-- Field order: None (Progressive scan)
-- Deinterlace method: None
-- Resample mode: Disable resample
-- Adjust source media to better match project or render settings: NO
-- Start all new projects with these settings: YES
+## 4.2. Rendering configuration
+The render template is based off the Sony AVC/MVC renderer template named `Internet 1280x720-30p`. Use the following configurations based on that.
 
-## 3.2. Rendering configuration
+![](https://i.imgur.com/aa5ElXM.png)
+![](https://i.imgur.com/gixi4Au.png)
+![](https://i.imgur.com/okPCPt0.png)
 
-## 3.3. Compression configuration
+## 4.3. Compression configuration
 For compression purposes we **always** use [ffmpeg](https://www.ffmpeg.org/download.html). This includes rendered episodes and streams.
 
-### 3.3.1. Frame rate
+### 4.3.1. Frame rate
 The frame varies depending on the source material used. If the majority of the source material is using 23.976 as its frame rate, use the frame rate `24000/1001`. If, however, the majority of the source material uses the frame rate 29.976, use the frame rate `30000/1001`.
 
-### 3.3.2. Video codec
+### 4.3.2. Video codec
 For newly rendered episodes that are to be compressed to x265, use the video codec `libx265`. If you do not have that codec downloaded, check [here](https://trac.ffmpeg.org/wiki/Encode/H.265). For encoding streams, use the video codec `libx264`.
 
 
-### 3.3.3. Compressing
+### 4.3.3. Compressing
 Now that you've gathered all the important information on the frame rate and codecs to use, this is what to type in the terminal (Obviously, replace the tags with the correct information):
 
 ```ffmpeg -i <input.mp4> -c:v <video codec> -c:a copy -crf 23 -preset slow -r <frame rate> <output.mp4>```
 
-# 4. Practices
-## 4.1. Editing music
-## 4.2. Handling transitions
-## 4.3. Following the mood
-## 4.4. Still shots
+# 5. Editing
+## 5.1. Timeline
+With the amount of cuts that we do in our episodes it's easy to get a messy timeline consisting of 10+ tracks making it hard to navigate and maintain your timeline. To avoid this make sure to follow these steps.
+
+First off, video is above, audio is below. Anytime you want to add a video track, do it from the top, and vice versa for the audio. This way we get a simple and intuitive split between the two. Do not change the volume on any audio tracks under any circumstances. If you need to adjust the volume on a clip, do it separately through the volume slider on the relevant clip. Changing the volume on an entire audio track makes it completely useless for any clips other than the one clip you're changing the volume on, and is one big factor to why track bloating happens. You want to keep your tracks neat, close and tidy together so that you have pretty much everything in one place.
+
+Never make a "stair" of audio or video events. This is where you don't use the unused space above/below a audio/video track but rather just keep adding tracks. You want to take every opportunity you get to use the closest unused space from the middle as possible. To avoid track bloating this is very important. :x: [Bad](https://i.imgur.com/sGFwMiz.png) :heavy_check_mark: [Good](https://i.imgur.com/RBPdESo.png)
+
+Don't keep unedited cuts. This creates unnecessary complexity and easy confusion. If you undid a cut, make sure you put it together again. :x: [Bad](https://i.imgur.com/OYIKF48.png) :heavy_check_mark: [Good](https://i.imgur.com/krsBpFq.png)
+
+## 5.2. Editing music
+## 5.3. Handling transitions
+## 5.4. Following the mood
+## 5.5. Still shots
 Still shots are done by slowing down a video event to 0% speed and then extending it to the desired length. For the frame you wish to have a still shot of, separate it from the main video event, right-click it, and press "Insert/Remove Envelope" followed by "Velocity" and a green bar will display on the video event. At the beginning of the event right-click at the little green square and press "Set to 0% velocity", now you can drag your event as long as you want to and it will keep still, creating a still shot.

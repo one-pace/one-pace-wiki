@@ -29,6 +29,7 @@
   * [4.2. Infoboxes](#42-infoboxes)
     + [4.2.1. Dialogue](#421-dialogue)
     + [4.2.2. Captions](#422-captions)
+  * [4.3. Italics](#43-italics)
 
 # 1. Grammar
 ## 1.1. Naming convention
@@ -296,3 +297,6 @@ These are the official names of the different roles and credits for the openings
 1. Captions are to use the `Captions` style (See above).
 2. For character infoboxes that are placed bottom centre, put the captions above the infobox, closely matching the line breaks and the font sizes in the Japanese text inside the infobox.
 3. For location infoboxes, make sure the caption fits horizontally within the infobox, then place it either above or below the infobox (never to the side). Make sure the font size and line breaks match the Japanese text inside the infobox.
+
+## 4.3 Italics
+Some lines sometimes have wrapped italics (Especially thoughts). Make sure to remove these since the Thoughts style itself manages styling such as italics. To remove wrapped italics in Aegisub, select the lines with the wrapped Italics and press Ctrl+H. Tick "Use regular expressions" and "Limit to Selected Rows", and in the "Find what" textbox, input this regex: `(^\{\\i(1|0)?\}|\{\\i(1|0)?\}$)`.

@@ -142,7 +142,7 @@ Note: Character names are usually in Japanese order. So Family name, then Forena
 - Void Century
 
 ### 1.1.4. Locations
-- Arabasta
+- Alabasta
 - Cacao Island
 - City of Gold (Shandora is not called El Dorado)
 - Cocoyasi Village

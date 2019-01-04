@@ -2,6 +2,9 @@
 
 - [1. Grammar](#1-grammar)
   * [1.1. Naming convention](#11-naming-convention)
+    + [1.1.0. Guiding principles](#110-guiding-principles)
+      - [1.1.1.1. Adding terms](#1111-adding-terms)
+      - [1.1.1.2. Updating terms](#1112-updating-terms)
     + [1.1.1. Devil Fruits](#111-devil-fruits)
     + [1.1.2. Characters](#112-characters)
     + [1.1.3. Events](#113-events)
@@ -10,7 +13,7 @@
     + [1.1.6. Navy Grammar](#116-navy-grammar)
     + [1.1.7. Abilities](#117-abilities)
     + [1.1.8. Weapons](#118-weapons)
-    + [1.1.9. Other](#118-other)
+    + [1.1.9. Other](#119-other)
   * [1.2. Sentence spacing](#12-sentence-spacing)
   * [1.3. Honorifics](#13-honorifics)
   * [1.4. Ellipses](#14-ellipses)
@@ -35,11 +38,14 @@
 ## 1.1. Naming convention
 Note: With the exception of certain attacks, we generally translate everything into English unless it is a name. This means that popular phrases like Nakama will be replaced with something like crewmate, friend or comrade. See the list below for a more detailed breakdown of what we use for more disputed translations.   
 
-The following are our guiding principles outlining when we consider updating or deciding on a name:
-1. We usually only consider an update for a name if the pronunciation/meaning changes or if a name has never had an official spelling before.
-2. Oda romanizations take the highest priority unless a loud majority hate it/thinks it makes no sense. (mildly preferring or being "used to" another spelling isn't enough). When Oda is inconsistent, the more recent and the more prevalent spelling takes precedence.
-3. Second priority is official databooks, vivre cards and Jump.
-4. If all else fails we can look to the anime, official English translations (Viz/Funi etc), Fan translations or come up with our own romanization.
+### 1.1.0 Guiding principles
+#### 1.1.1.1. Adding terms
+1. The Manga's romanizations take the highest priority, unless disliked by a majority for reasons other than being accustomed to another term. If the Manga has differing spellings, the more recent and the more prevalent spelling takes precedence.
+2. Databooks, vivre cards, and Jump take the second priority.
+3. The anime, official English translations such as Viz, Funimation, Fan translations, or our own Romanization are third priority.
+
+#### 1.1.1.2 Updating terms
+Unless unanimously agreed, a term can not be changed in the style guide if the first episode it was used in was released more than one year ago, and/or has been used in more than four instances.
 
 ### 1.1.1. Devil Fruits
 Translated to English, while keeping the double noun, like Rubber-Rubber Fruit. The hyphen is always present in the name of the fruit and attack. Furthermore, while Japanese names are translated, exceptions are made for specifically Japanese attacks such as Zoro's Onigiri or Katakuri's Mochi.

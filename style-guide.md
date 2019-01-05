@@ -2,18 +2,19 @@
 
 - [1. Grammar](#1-grammar)
   * [1.1. Naming convention](#11-naming-convention)
-    + [1.1.0. Guiding principles](#110-guiding-principles)
+    + [1.1.1. Guiding principles](#111-guiding-principles)
       - [1.1.1.1. Adding terms](#1111-adding-terms)
       - [1.1.1.2. Updating terms](#1112-updating-terms)
-    + [1.1.1. Devil Fruits](#111-devil-fruits)
-    + [1.1.2. Characters](#112-characters)
-    + [1.1.3. Events](#113-events)
-    + [1.1.4. Locations](#114-locations)
-    + [1.1.5. Titles & Epithets](#115-titles--epithets)
-    + [1.1.6. Navy Grammar](#116-navy-grammar)
-    + [1.1.7. Abilities](#117-abilities)
-    + [1.1.8. Weapons](#118-weapons)
-    + [1.1.9. Other](#119-other)
+    + [1.1.2. Devil Fruits](#112-devil-fruits)
+    + [1.1.3. Characters](#113-characters)
+    + [1.1.4. Events](#114-events)
+    + [1.1.5. Locations](#115-locations)
+    + [1.1.6. Titles & Epithets](#116-titles--epithets)
+    + [1.1.7. Navy Grammar](#117-navy-grammar)
+    + [1.1.8. Abilities](#118-abilities)
+    + [1.1.9. Weapons](#119-weapons)
+    + [1.1.10. Other](#1110-other)
+    + [1.1.11. Ships](#1111-ships)
   * [1.2. Sentence spacing](#12-sentence-spacing)
   * [1.3. Honorifics](#13-honorifics)
   * [1.4. Ellipses](#14-ellipses)
@@ -36,18 +37,18 @@
 
 # 1. Grammar
 ## 1.1. Naming convention
-Note: With the exception of certain attacks, we generally translate everything into English unless it is a name. This means that popular phrases like Nakama will be replaced with something like crewmate, friend or comrade. See the list below for a more detailed breakdown of what we use for more disputed translations.   
+With the exception of certain attacks, we generally translate everything into English unless it is a name. This means that popular phrases like Nakama will be replaced with something like crewmate, friend or comrade. See the list below for a more detailed breakdown of what we use for more disputed translations.
 
-### 1.1.0 Guiding principles
+### 1.1.1. Guiding principles
 #### 1.1.1.1. Adding terms
 1. The Manga's romanizations take the highest priority, unless disliked by a majority for reasons other than being accustomed to another term. If the Manga has differing spellings, the more recent and the more prevalent spelling takes precedence.
 2. Databooks, vivre cards, and Jump take the second priority.
 3. The anime, official English translations such as Viz, Funimation, Fan translations, or our own Romanization are third priority.
 
-#### 1.1.1.2 Updating terms
+#### 1.1.1.2. Updating terms
 Unless unanimously agreed, a term can not be changed in the style guide if the first episode it was used in was released more than one year ago, and/or has been used in more than four instances.
 
-### 1.1.1. Devil Fruits
+### 1.1.2. Devil Fruits
 Translated to English, while keeping the double noun, like Rubber-Rubber Fruit. The hyphen is always present in the name of the fruit and attack. Furthermore, while Japanese names are translated, exceptions are made for specifically Japanese attacks such as Zoro's Onigiri or Katakuri's Mochi.
 
 - Chop-Chop Fruit
@@ -61,16 +62,17 @@ Translated to English, while keeping the double noun, like Rubber-Rubber Fruit. 
 - Smoke-Smoke Fruit
 - Quake-Quake Fruit 
 
-### 1.1.2. Characters
-Note: Character names are usually in Japanese order. So Family name, then Forename. E.G. It's Vinsmoke Sanji, not Sanji Vinsmoke.
+### 1.1.3. Characters
+Character names are usually in Japanese order. So Family name, then Forename. E.G. It's Vinsmoke Sanji, not Sanji Vinsmoke.
 
 - Aladine
 - Avalo Pizarro
+- Babe (Mr. 4)
 - Beer VI
 - Bell-mère
 - Belo Betty
 - Black Leg Sanji
-- Bon Kurei
+- Bentham (Mr. 2 / Bon Kurei)
 - Buchi
 - Camie
 - Carmel
@@ -84,14 +86,17 @@ Note: Character names are usually in Japanese order. So Family name, then Forena
 - Charlotte Yuen
 - Chouchou
 - Corazón
+- Daz Bones (Mr. 1)
 - Donquixote Doflamingo (Donquixote is one word)
 - Donquixote Rosinante
 - Dracule "Hawk Eye" Mihawk
 - Dr. Hiriluk
+- Drophy (Miss Merry Christmas)
 - Eustass "Captain" Kid
 - Enel
 - Flampe
 - Fukurou
+- Galdino (Mr. 3 / Brother Three / Three)
 - Gecko Moria
 - Genzo (Gen-san as a nickname)
 - Gomorrah
@@ -115,10 +120,14 @@ Note: Character names are usually in Japanese order. So Family name, then Forena
 - Koby
 - Kohza
 - Lindbergh
+- Marianne (Miss Golden Week)
 - Marshall D. Teach
+- Mikita (Miss Valentine)
 - Morley
 - Nefertari
+- Neptune
 - Nekomamushi
+- Otohime
 - Pappag
 - Portgas D. Ace
 - Roronoa Zoro
@@ -135,11 +144,13 @@ Note: Character names are usually in Japanese order. So Family name, then Forena
 - Sodom
 - Squard
 - Sterry
+- Surume (Kraken)
 - Tony Tony Chopper (Nicknamed Chobro)
 - Trebol (without an accent)
 - Vasco Shot
+- Zala (Miss Doublefinger)
 
-### 1.1.3. Events
+### 1.1.4. Events
 - Great Pirate Era
 - New Age
 - Payback War
@@ -147,7 +158,7 @@ Note: Character names are usually in Japanese order. So Family name, then Forena
 - Summit War
 - Void Century
 
-### 1.1.4. Locations
+### 1.1.5. Locations
 - Alabasta
 - Cacao Island
 - City of Gold (Shandora is not called El Dorado)
@@ -164,7 +175,7 @@ Note: Character names are usually in Japanese order. So Family name, then Forena
 - Water 7
 - Wheat Island
 
-### 1.1.5. Titles & Epithets
+### 1.1.6. Titles & Epithets
 - Celestial Dragon(s)/ World Noble(s)
 - Electric Blue (Niji)
 - Father (For Bege, instead of Godfather)
@@ -178,8 +189,8 @@ Note: Character names are usually in Japanese order. So Family name, then Forena
 - Sniper King  
 - (The Seven Royal) Warlord(s) (of the Sea)
 
-### 1.1.6. Navy Grammar
-Note: Marine is used to reference soldiers of the Navy, while the Navy is the name of the organization, which the Marines serve.
+### 1.1.7. Navy Grammar
+Marine is used to reference soldiers of the Navy, while the Navy is the name of the organization, which the Marines serve.
 
 - The Navy
 - A Navy ship
@@ -191,8 +202,8 @@ Note: Marine is used to reference soldiers of the Navy, while the Navy is the na
 - Vice Admiral Smoker
 - Smoker is a vice admiral
 
-### 1.1.7. Abilities
-Note: we currently do not translate attack names if they are in a language other than Japanese. E.G. We keep Sanji's and Robin's moves as they are. We also do not translate a move name if a literal translation ruins a reference. E.G. Zoro's "Two-Swords Style Rashomon" attack is a reference to a gate of the same name in Kyoto and a famous movie.
+### 1.1.8. Abilities
+We do not translate attack names if they are in a language other than Japanese. E.G. We keep Sanji's and Robin's moves as they are. We also do not translate a move name if a literal translation ruins a reference. E.G. Zoro's "Two-Swords Style Rashomon" attack is a reference to a gate of the same name in Kyoto and a famous movie.
 
 - Boundman / Tankman / Snakeman
 - Gear Second / Third / Fourth
@@ -202,14 +213,14 @@ Note: we currently do not translate attack names if they are in a language other
 - Rubber-Rubber...
 - Shambles
 
-### 1.1.8. Weapons
+### 1.1.9. Weapons
 - Clima-Tact
 - Grade Swords / Skillful Grade Swords / Great Grade Swords / Supreme Grade Swords
 - Gryphon
 - Named Blade (for Meito)
 - Sandai Kitetsu / Nidai Kitetsu / Shodai Kitetsu
 
-### 1.1.9. Other
+### 1.1.10. Other
 - Belly
 - Binks' Sake
 - Devil Fruit user (as opposed to eater or something)
@@ -226,6 +237,10 @@ Note: we currently do not translate attack names if they are in a language other
 - (The) Straw Hat Pirates
 - Thousand Sunny (when personified referred to as "she")
 - Transponder Snail
+
+### 1.1.11. Ships
+- Baroque Gustave
+- Snapperhead
 
 ## 1.2. Sentence spacing
 Sentences are separated by a single space.

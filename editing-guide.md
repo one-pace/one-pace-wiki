@@ -2,14 +2,16 @@
 - [1. Tools](#1-tools)
 - [2. Version control](#2-version-control)
   * [2.1. GitHub Desktop](#21-github-desktop)
-- [3. Source material containers](#3-source-material-containers)
-- [4. Configuration](#4-configuration)
-  * [4.1. Project configuration](#41-project-configuration)
-  * [4.2. Rendering configuration](#42-rendering-configuration)
-  * [4.3. Compression configuration](#43-compression-configuration)
-    + [4.3.1. Frame rate](#431-frame-rate)
-    + [4.3.2. Video codec](#432-video-codec)
-    + [4.3.3. Compressing](#433-compressing)
+- [3. Configuration](#3-configuration)
+  * [3.1. Project configuration](#31-project-configuration)
+  * [3.2. Rendering configuration](#32-rendering-configuration)
+  * [3.3. Compression configuration](#33-compression-configuration)
+    + [3.3.1. Frame rate](#331-frame-rate)
+    + [3.3.2. Video codec](#332-video-codec)
+    + [3.3.3. Compressing](#333-compressing)
+- [4. Raws](#4-raws)
+  * [4.1. Acceptable raws](#41-acceptable-raws)
+  * [4.2. Raws veg containers](#42-raws-veg-containers)
 - [5. Editing](#5-editing)
   * [5.1. Timeline](#51-timeline)
   * [5.2. Editing music](#52-editing-music)
@@ -51,35 +53,53 @@ This is how to set up and use GitHub Desktop:
 11. Good practice is to rebase after every push to fetch the latest changes from master. Press Ctrl+Shift+U to do this.
 12. When an episode has been released, it's time to merge it into master. Press Ctrl+R to get sent to the web interface and create a pull request.
 
-# 3. Source material containers
-Source material containers, also called **Episode vegs**, help manage and control the source material used. Source material containers can crop unwanted black borders, globally adjust the volume of the source material, and host subtitle regions that can later be viewed and exported in the project. Doing these video changes manually in a project instead is unsustainable because it's not guaranteed that it's the only project that will use that source material.
-
-# 4. Configuration
-## 4.1. Project configuration
+# 3. Configuration
+## 3.1. Project configuration
 These are the project settings that **all** Vegas project **must have** before starting editing.
 ![](https://i.imgur.com/VxWZ2Po.png)
 
-## 4.2. Rendering configuration
+## 3.2. Rendering configuration
 The render template is based off the Sony AVC/MVC renderer template named `Internet 1280x720-30p`. Use the following configurations based on that.
 
 ![](https://i.imgur.com/aa5ElXM.png)
 ![](https://i.imgur.com/gixi4Au.png)
 ![](https://i.imgur.com/okPCPt0.png)
 
-## 4.3. Compression configuration
+## 3.3. Compression configuration
 For compression purposes we **always** use [ffmpeg](https://www.ffmpeg.org/download.html). This includes rendered episodes and streams.
 
-### 4.3.1. Frame rate
+### 3.3.1. Frame rate
 The frame varies depending on the source material used. If the majority of the source material is using 23.976 as its frame rate, use the frame rate `24000/1001`. If, however, the majority of the source material uses the frame rate 29.976, use the frame rate `30000/1001`.
 
-### 4.3.2. Video codec
+### 3.3.2. Video codec
 For newly rendered episodes that are to be compressed to x265, use the video codec `libx265`. If you do not have that codec downloaded, check [here](https://trac.ffmpeg.org/wiki/Encode/H.265). For encoding streams, use the video codec `libx264`.
 
 
-### 4.3.3. Compressing
+### 3.3.3. Compressing
 Now that you've gathered all the important information on the frame rate and codecs to use, this is what to type in the terminal (Obviously, replace the tags with the correct information):
 
 ```ffmpeg -i <input.mp4> -c:v <video codec> -c:a copy -crf 23 -preset slow -r <frame rate> <output.mp4>```
+
+# 4. Raws
+## 4.1. Acceptable raws
+For a raw to be accepted for use in One Pace it has to pass some criterias. If no raws can be found that match all the following criterias, the version that most closely matches the criterias (in descending priority order, combination of both audio and video from different raws possible) is the one we will use.
+
+The following list decides the requirements for the video:
+
+- No watermarks
+- No signs such as ads, psa:s, and other texts that are not originally in the episode
+- Nice stable framerate, smooth panning
+- No artifacts or other video corruption that is not in the original episode
+- No opening credits
+- No opening lyrics
+
+The following list decides the requirements for the audio:
+
+- No ads or other audio that is not in the original episode
+- No popping noises or other audio corruption that is not in the original episode
+
+## 4.2. Raws veg containers
+Raws veg containers, also called **Episode vegs**, help manage and control the source material used. Raws veg containers can crop unwanted black borders, globally adjust the volume of the source material, and host subtitle regions that can later be viewed and exported in the project. Doing these video changes manually in a project instead is unsustainable because it's not guaranteed that it's the only project that will use that source material.
 
 # 5. Editing
 ## 5.1. Timeline

@@ -35,16 +35,16 @@
 
 # 1. Grammar
 ## 1.1. Naming convention
-We generally translate everything into English unless it is a character name. (Exceptions are listed below). This means that popular phrases like Nakama will be replaced with something like crewmate, friend or comrade. Foriegn words that have been integrated into English, such as Karate or Suishi do not need to be translated. See the list below for a more detailed breakdown of what we use for more disputed translations.
+We generally translate everything into English unless it is a character name. (Exceptions are listed below). This means that popular phrases like Nakama will be replaced with something like crewmate, friend or comrade. Foreign words that have been integrated into English, such as Karate or Suishi do not need to be translated. See the list below for a more detailed breakdown of what we use for more disputed translations.
 
 ### 1.1.1. Style Guide Rules
-The following rules can only be amended by the majority concent of the Tean Wiki Council. The style guide will be what we use all contemporary releases until we will switch to the Style notebook terms when working on a definitive release. The main focus of this guide is to try and preserve continuity with our previous releases. The Rules that dictate how the list can be added to or amended are as follows:
+The following rules can only be amended by the majority consent of the Team Wiki Council. The council is currently comprised of Halee, Feeso, Sewil, Pepper and Galaxy9000 however any team memeber may join provided they are active in team wiki discussions. The style guide will be what we use all contemporary releases until we switch to the Style notebook terms when working on a definitive release. The main focus of this guide is to try and preserve continuity with our previous releases. The Rules that dictate how the list can be added to or amended are as follows:
 
-a. The style guide must be followed for all One Pace releases until we have closed all the gaps.
+1. The style guide must be followed for all One Pace releases until we have closed all the gaps.
 
-b. The terms on the list will be decided strictly on the most used spelling in One Pace. This can be overruled if at least 80% of the council feels the spelling of a term should be updated, due to compelling evidence or preference for a new spelling. 
+2. The terms on the list will be decided strictly on the most used spelling in One Pace. This can be overruled if at least 80% of the   council feels the spelling of a term should be updated, due to compelling evidence or preference for a new spelling. 
 
-c. A brand new term, or one never used in One Pace before may be added or amended on the list without issue. If a potentially new Oda romanisation seems to be trying to depict a non fictional “foreign” word, the council can agree to amend it before proceeding. The same policy is applicable for correcting spacing and grammar issues.
+3. A brand new term, or one never used in One Pace before may be added or amended on the list without issue. If a potentially new Oda  romanisation seems to be trying to depict a non fictional “foreign” word, the council can agree to amend it before proceeding. The same  policy is applicable for correcting spacing and grammar issues.
 
 ### 1.1.2. Devil Fruits
 Translated to English, while keeping the double noun, like Rubber-Rubber Fruit. The hyphen is always present in the name of the fruit and attack. Furthermore, while Japanese names are translated, exceptions are made for specifically Japanese attacks such as Zoro's Onigiri or Katakuri's Mochi.
@@ -146,7 +146,7 @@ Character names are usually in Japanese order. So Family name, then Forename. E.
 - Sterry
 - Surume (Kraken)
 - Tony Tony Chopper (Nicknamed Chobro)
-- Trafalgar D Water Law (Traf)
+- Trafalgar D. Water Law (Traf)
 - Trebol (without an accent)
 - Usopp
 - Vasco Shot
@@ -245,10 +245,11 @@ We do not translate attack names if they are in a language other than Japanese. 
 - Transponder Snail
 
 ### 1.1.11. Ships
+Note: when ships are personified they are to be referred to as "she".
 - Baroque Gustave
-- Going Merry (when personified referred to as "she")
+- Going Merry 
 - Snapperhead
-- Thousand Sunny (when personified referred to as "she")
+- Thousand Sunny 
 
 ## 1.2. Sentence spacing
 Sentences are separated by a single space.

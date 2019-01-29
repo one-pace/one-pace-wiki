@@ -2,9 +2,7 @@
 
 - [1. Grammar](#1-grammar)
   * [1.1. Naming convention](#11-naming-convention)
-    + [1.1.1. Guiding principles](#111-guiding-principles)
-      - [1.1.1.1. Adding terms](#1111-adding-terms)
-      - [1.1.1.2. Updating terms](#1112-updating-terms)
+    + [1.1.1. Style Guide Rules](#111-style-guide-rules)
     + [1.1.2. Devil Fruits](#112-devil-fruits)
     + [1.1.3. Characters](#113-characters)
     + [1.1.4. Events](#114-events)
@@ -37,16 +35,16 @@
 
 # 1. Grammar
 ## 1.1. Naming convention
-With the exception of certain attacks, we generally translate everything into English unless it is a name. This means that popular phrases like Nakama will be replaced with something like crewmate, friend or comrade. See the list below for a more detailed breakdown of what we use for more disputed translations.
+We generally translate everything into English unless it is a character name. (Exceptions are listed below). This means that popular phrases like Nakama will be replaced with something like crewmate, friend or comrade. Foriegn words that have been integrated into English, such as Karate or Suishi do not need to be translated. See the list below for a more detailed breakdown of what we use for more disputed translations.
 
-### 1.1.1. Guiding principles
-#### 1.1.1.1. Adding terms
-1. The Manga's romanizations take the highest priority, unless disliked by a majority for reasons other than being accustomed to another term. If the Manga has differing spellings, the more recent and the more prevalent spelling takes precedence.
-2. Databooks, vivre cards, and Jump take the second priority.
-3. The anime, official English translations such as Viz, Funimation, Fan translations, or our own Romanization are third priority.
+### 1.1.1. Style Guide Rules
+The following rules can only be amended by the majority concent of the Tean Wiki Council. The style guide will be what we use all contemporary releases until we will switch to the Style notebook terms when working on a definitive release. The main focus of this guide is to try and preserve continuity with our previous releases. The Rules that dictate how the list can be added to or amended are as follows:
 
-#### 1.1.1.2. Updating terms
-Unless unanimously agreed, a term can not be changed in the style guide if the first episode it was used in was released more than one year ago, and/or has been used in more than four instances.
+a. The style guide must be followed for all One Pace releases until we have closed all the gaps.
+
+b. The terms on the list will be decided strictly on the most used spelling in One Pace. This can be overruled if at least 80% of the council feels the spelling of a term should be updated, due to compelling evidence or preference for a new spelling. 
+
+c. A brand new term, or one never used in One Pace before may be added or amended on the list without issue. If a potentially new Oda romanisation seems to be trying to depict a non fictional “foreign” word, the council can agree to amend it before proceeding. The same policy is applicable for correcting spacing and grammar issues.
 
 ### 1.1.2. Devil Fruits
 Translated to English, while keeping the double noun, like Rubber-Rubber Fruit. The hyphen is always present in the name of the fruit and attack. Furthermore, while Japanese names are translated, exceptions are made for specifically Japanese attacks such as Zoro's Onigiri or Katakuri's Mochi.
@@ -65,9 +63,8 @@ Translated to English, while keeping the double noun, like Rubber-Rubber Fruit. 
 ### 1.1.3. Characters
 Character names are usually in Japanese order. So Family name, then Forename. E.G. It's Vinsmoke Sanji, not Sanji Vinsmoke.
 
-- Aladine
+- Aladine 
 - Avalo Pizarro
-- Babe (Mr. 4)
 - Beer VI
 - Bell-mère
 - Belo Betty
@@ -76,6 +73,7 @@ Character names are usually in Japanese order. So Family name, then Forename. E.
 - Buchi
 - Camie
 - Carmel
+- Carrot, Onion and Pepper (the Syrup Village trio)
 - Catarina Devon
 - Charlos
 - Charlotte Brûlée (Nicknamed Branch)
@@ -85,24 +83,27 @@ Character names are usually in Japanese order. So Family name, then Forename. E.
 - Charlotte Mont d'Or
 - Charlotte Yuen
 - Chouchou
+- Coby
 - Corazón
 - Daz Bones (Mr. 1)
 - Donquixote Doflamingo (Donquixote is one word)
 - Donquixote Rosinante
 - Dracule "Hawk Eye" Mihawk
 - Dr. Hiriluk
-- Drophy (Miss Merry Christmas)
 - Eustass "Captain" Kid
 - Enel
 - Flampe
+- Franky (Cutty Flam)
 - Fukurou
 - Galdino (Mr. 3 / Brother Three / Three)
-- Gecko Moria
+- Gekko Moriah
 - Genzo (Gen-san as a nickname)
+- Gin
 - Gomorrah
 - Ham Burger
 - Hatchan/Hachi
 - Hody Jones
+- Klahadore (Kuro)
 - Iceburg
 - Imu 
 - Inuarashi
@@ -117,12 +118,9 @@ Character names are usually in Japanese order. So Family name, then Forename. E.
 - Karoo
 - Kashi
 - King Baum
-- Koby
 - Kohza
 - Lindbergh
-- Marianne (Miss Golden Week)
 - Marshall D. Teach
-- Mikita (Miss Valentine)
 - Morley
 - Nefertari
 - Neptune
@@ -135,20 +133,25 @@ Character names are usually in Japanese order. So Family name, then Forename. E.
 - Rosward
 - Sadi
 - Sanjuan Wolf
+- Sarie (Sterry's wife)
 - Senor Pink (without the ñ)
 - Sentomaru
 - Shakuyaku (Nicknamed Shakky)
 - Shalria
 - Sham
-- Shiryu
+- Shiryuu
+- Smoker (Smokey)
 - Sodom
 - Squard
 - Sterry
 - Surume (Kraken)
 - Tony Tony Chopper (Nicknamed Chobro)
+- Trafalgar D Water Law (Traf)
 - Trebol (without an accent)
+- Usopp
 - Vasco Shot
-- Zala (Miss Doublefinger)
+- Wiper
+- Zunesha
 
 ### 1.1.4. Events
 - Great Pirate Era
@@ -165,15 +168,19 @@ Character names are usually in Japanese order. So Family name, then Forename. E.
 - Cocoyasi Village
 - Dressrosa
 - Elbaf
-- Kano Country
+- Fishman Island (Ryuuguu Kingdom)
+- Flower Country (Kano)
+- Foosha Village
 - Loguetown (pun on prologue and epilogue)
-- Mary Geoise (Mariejois reborn)
+- Mariejois
 - Sheep's House
 - Tarai Current
 - Totto Land
 - Wano Country (Can also be just Wano)
 - Water 7
 - Wheat Island
+- Whiskey Peak
+
 
 ### 1.1.6. Titles & Epithets
 - Celestial Dragon(s)/ World Noble(s)
@@ -184,9 +191,10 @@ Character names are usually in Japanese order. So Family name, then Forename. E.
 - God (Enel's Self proclaimed title, do not use Sky King or Kami)
 - Knight of the Sea (not First Son of the Sea)
 - Mountain Witch
+- Okama/ Newkama
 - Pirate King (depending on context, "King of the Pirates" can be appropriate)
 - Shipwright (not carpenter) 
-- Sniper King  
+- Sogeking  
 - (The Seven Royal) Warlord(s) (of the Sea)
 
 ### 1.1.7. Navy Grammar
@@ -211,7 +219,7 @@ We do not translate attack names if they are in a language other than Japanese. 
 - One-Sword Style / Two-Swords Style / Three-Swords Style
 - Oni Giri
 - Rubber-Rubber...
-- Shambles
+- Chambres
 
 ### 1.1.9. Weapons
 - Clima-Tact
@@ -222,12 +230,11 @@ We do not translate attack names if they are in a language other than Japanese. 
 
 ### 1.1.10. Other
 - Belly
-- Binks' Sake
+- Binks' Sake (https://docs.google.com/document/d/1QmwRnkIs_LFeHMyUHhmsuLDB4qMLrFNduUs6grYY3tw/edit?usp=sharing)
 - Devil Fruit user (as opposed to eater or something)
 - First mate (instead of vice captain)
 - Fishman/Fishmen (referring to people like Jinbe)
 - Log Pose/Eternal Pose (not grand compass)
-- Going Merry (when personified referred to as "she")
 - Merman/Mermen (referring to people like Fukaboshi)
 - Mermaid(s) (referring to people like Camie)
 - Poneglyph
@@ -235,18 +242,19 @@ We do not translate attack names if they are in a language other than Japanese. 
 - Seastone (doesn't need to be capitalized)
 - (The) Sun Pirates
 - (The) Straw Hat Pirates
-- Thousand Sunny (when personified referred to as "she")
 - Transponder Snail
 
 ### 1.1.11. Ships
 - Baroque Gustave
+- Going Merry (when personified referred to as "she")
 - Snapperhead
+- Thousand Sunny (when personified referred to as "she")
 
 ## 1.2. Sentence spacing
 Sentences are separated by a single space.
 
 ## 1.3. Honorifics
-All honorifics are italicized, along with the associated dash.
+All honorifics are italicized, along with the associated dash. This includes made up honorifics. (Law's -ya is an exception and will be replaced with an "er" at the end of the attached word.
 
 ## 1.4. Ellipses
 Lines ending with ellipses (...) must not continue the ellipsis on the following line.

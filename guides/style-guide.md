@@ -125,6 +125,7 @@ Character names are usually in Japanese order. So Family name, then Forename. E.
 - Nefertari
 - Neptune
 - Nekomamushi
+- Oars (same for little Oars Jr.)
 - Otohime
 - Pappag
 - Portgas D. Ace

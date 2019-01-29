@@ -230,7 +230,7 @@ We do not translate attack names if they are in a language other than Japanese. 
 
 ### 1.1.10. Other
 - Belly
-- Binks' Sake (https://docs.google.com/document/d/1QmwRnkIs_LFeHMyUHhmsuLDB4qMLrFNduUs6grYY3tw/edit?usp=sharing)
+- Binks' Sake (lyrics: https://docs.google.com/document/d/1QmwRnkIs_LFeHMyUHhmsuLDB4qMLrFNduUs6grYY3tw/edit?usp=sharing)
 - Devil Fruit user (as opposed to eater or something)
 - First mate (instead of vice captain)
 - Fishman/Fishmen (referring to people like Jinbe)

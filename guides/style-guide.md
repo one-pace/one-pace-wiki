@@ -118,7 +118,7 @@ Character names are usually in Japanese order. So Family name, then Forename. E.
 - Karoo
 - Kashi
 - King Baum
-- Kohza
+- Koza
 - Lindbergh
 - Marshall D. Teach
 - Morley
@@ -229,6 +229,7 @@ We do not translate attack names if they are in a language other than Japanese. 
 - Sandai Kitetsu / Nidai Kitetsu / Shodai Kitetsu
 
 ### 1.1.10. Other
+- Ball Ordeal (Skypeia) 
 - Belly
 - Binks' Sake (lyrics: https://docs.google.com/document/d/1QmwRnkIs_LFeHMyUHhmsuLDB4qMLrFNduUs6grYY3tw/edit?usp=sharing)
 - Devil Fruit user (as opposed to eater or something)
@@ -243,6 +244,7 @@ We do not translate attack names if they are in a language other than Japanese. 
 - (The) Sun Pirates
 - (The) Straw Hat Pirates
 - Transponder Snail
+- Will of D.
 
 ### 1.1.11. Ships
 Note: when ships are personified they are to be referred to as "she".

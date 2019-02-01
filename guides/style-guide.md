@@ -174,6 +174,7 @@ Character names are usually in Japanese order. So Family name, then Forename. E.
 - Foosha Village
 - Loguetown (pun on prologue and epilogue)
 - Mariejois
+- Sakura Kingdom
 - Sheep's House
 - Tarai Current
 - Totto Land
@@ -242,6 +243,7 @@ We do not translate attack names if they are in a language other than Japanese. 
 - Poneglyph
 - Sea Kings (not Neptunians)
 - Seastone (doesn't need to be capitalized)
+- Shinokuni
 - (The) Sun Pirates
 - (The) Straw Hat Pirates
 - Transponder Snail

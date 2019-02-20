@@ -152,7 +152,7 @@ Character names are usually in Japanese order. So Family name, then Forename. E.
 - Usopp
 - Vasco Shot
 - Wiper
-- Zunesha
+- Zunisha
 
 ### 1.1.4. Events
 - Great Pirate Era
@@ -169,9 +169,9 @@ Character names are usually in Japanese order. So Family name, then Forename. E.
 - Cocoyasi Village
 - Dressrosa
 - Elbaf
-- Fishman Island (Ryuuguu Kingdom)
-- Flower Country (Kano)
+- Fishman Island (Ryugu Kingdom)
 - Foosha Village
+- Kano Country
 - Loguetown (pun on prologue and epilogue)
 - Mariejois
 - Sakura Kingdom

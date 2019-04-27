@@ -26,7 +26,7 @@
 - [3. Styling](#3-styling)
   * [3.1. Aegisub Styles](#31-aegisub-styles)
   * [3.2. Credits](#32-credits)
-- [4. Practices](#4-practices)
+- [4. Timing](#4-timing)
   * [4.1. Lines](#41-lines)
   * [4.2. Infoboxes](#42-infoboxes)
     + [4.2.1. Dialogue](#421-dialogue)
@@ -318,10 +318,13 @@ These are the official names of the different roles and credits for the openings
 - Soundtracking/Soundtracker
 - Raws/Raw Provider
 
-# 4. Practices
+# 4. Timing
 ## 4.1. Lines
-1. Lines may never be over two rows. Lines that exceed two rows should be rephrased or split into two.
-2. Each line may only contain one character's dialog. If multiple characters are speaking at the same time, use the Secondary style.
+## 4.1.1. Line length
+Lines may never be over two rows. Lines that exceed two rows should be rephrased or split into two.
+
+## 4.1.2. Character dialogue
+Each line may only contain one character's dialog. If multiple characters are speaking at the same time, use the Secondary style.
 
 ## 4.2. Infoboxes
 ### 4.2.1. Dialogue

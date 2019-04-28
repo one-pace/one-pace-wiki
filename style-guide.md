@@ -55,6 +55,7 @@ Translated to English, while keeping the double noun, like Rubber-Rubber Fruit. 
 - Magma-Magma Fruit
 - Memo-Memo Fruit
 - Mochi-Mochi Fruit
+- Rally-Rally Fruit
 - Rubber-Rubber Fruit
 - Soul-Soul Fruit
 - Smoke-Smoke Fruit
@@ -83,7 +84,6 @@ Character names are usually in Japanese order. So Family name, then Forename. E.
 - Charlotte Mont d'Or
 - Charlotte Yuen
 - Chouchou
-- Coby
 - Corazón
 - Daz Bones (Mr. 1)
 - Donquixote Doflamingo (Donquixote is one word)
@@ -104,6 +104,7 @@ Character names are usually in Japanese order. So Family name, then Forename. E.
 - Hatchan/Hachi
 - Hody Jones
 - Klahadore (Kuro)
+- Koby
 - Iceburg
 - Imu 
 - Inuarashi
@@ -112,7 +113,7 @@ Character names are usually in Japanese order. So Family name, then Forename. E.
 - Jinbe
 - Jorl (Waterfall Beard)
 - Jozu
-- Kaidou
+- Kaido
 - Kalifa
 - Karasu
 - Karoo
@@ -129,6 +130,7 @@ Character names are usually in Japanese order. So Family name, then Forename. E.
 - Otohime
 - Pappag
 - Portgas D. Ace
+- Raki
 - Roronoa Zoro
 - Roshwan Kingdom
 - Rosward
@@ -232,7 +234,7 @@ We do not translate attack names if they are in a language other than Japanese. 
 
 ### 1.1.10. Other
 - Ball Ordeal (Skypeia) 
-- Belly
+- Belly (always lowercase)
 - Binks' Sake (lyrics: https://docs.google.com/document/d/1QmwRnkIs_LFeHMyUHhmsuLDB4qMLrFNduUs6grYY3tw/edit?usp=sharing)
 - Devil Fruit user (as opposed to eater or something)
 - First mate (instead of vice captain)
@@ -242,7 +244,7 @@ We do not translate attack names if they are in a language other than Japanese. 
 - Mermaid(s) (referring to people like Camie)
 - Poneglyph
 - Sea Kings (not Neptunians)
-- Seastone (doesn't need to be capitalized)
+- Seastone (always lowercase)
 - Shinokuni
 - (The) Sun Pirates
 - (The) Straw Hat Pirates

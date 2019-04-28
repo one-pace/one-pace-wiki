@@ -103,8 +103,6 @@ Character names are usually in Japanese order. So Family name, then Forename. E.
 - Ham Burger
 - Hatchan/Hachi
 - Hody Jones
-- Klahadore (Kuro)
-- Koby
 - Iceburg
 - Imu 
 - Inuarashi
@@ -119,6 +117,8 @@ Character names are usually in Japanese order. So Family name, then Forename. E.
 - Karoo
 - Kashi
 - King Baum
+- Klahadore (Kuro)
+- Koby
 - Koza
 - Lindbergh
 - Marshall D. Teach
@@ -153,7 +153,7 @@ Character names are usually in Japanese order. So Family name, then Forename. E.
 - Trebol (without an accent)
 - Usopp
 - Vasco Shot
-- Wiper
+- Wyper
 - Zunisha
 
 ### 1.1.4. Events

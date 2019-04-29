@@ -38,7 +38,7 @@
 We generally translate everything into English unless it is a character name. (Exceptions are listed below). This means that popular phrases like Nakama will be replaced with something like crewmate, friend or comrade. Foreign words that have been integrated into English, such as Karate or Suishi do not need to be translated. See the list below for a more detailed breakdown of what we use for more disputed translations.
 
 ### 1.1.1. Style Guide Rules
-The following rules can only be amended by the majority consent of the Team Wiki Council. The council is currently comprised of Halee, Feeso, Sewil, Pepperjack and Galaxy9000, however any team member may join provided they are active in team wiki discussions. The style guide will be what we use for all contemporary releases until we switch to the style notebook terms when working on a definitive release. The main focus of this guide is to try and preserve continuity with our previous releases. The Rules that dictate how the list can be added to or amended are as follows:
+The following rules can only be amended by the majority consent of the Team Wiki Council. The council is currently comprised of Halee, Feeso, Sewil, Pepperjack, Gaijin and Galaxy9000, however any team member may join provided they are active in team wiki discussions. The style guide will be what we use for all contemporary releases until we switch to the style notebook terms when working on a definitive release. The main focus of this guide is to try and preserve continuity with our previous releases. The Rules that dictate how the list can be added to or amended are as follows:
 
 1. The style guide must be followed for all One Pace releases until we have closed all the gaps.
 
@@ -142,7 +142,7 @@ Character names are usually in Japanese order. So Family name, then Forename. E.
 - Shakuyaku (Nicknamed Shakky)
 - Shalria
 - Sham
-- Shiryuu
+- Shiryu
 - Smoker (Smokey)
 - Sodom
 - Squard
@@ -173,7 +173,7 @@ Character names are usually in Japanese order. So Family name, then Forename. E.
 - Elbaf
 - Fishman Island (Ryugu Kingdom)
 - Foosha Village
-- Kano Country
+- Kano Kingdom (Can also be just Kano)
 - Loguetown (pun on prologue and epilogue)
 - Mariejois
 - Sakura Kingdom

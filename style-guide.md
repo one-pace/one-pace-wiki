@@ -173,7 +173,7 @@ Character names are usually in Japanese order. So Family name, then Forename. E.
 - Elbaf
 - Fishman Island (Ryugu Kingdom)
 - Foosha Village
-- Kano Kingdom (Can also be just Kano)
+- Kano Country (Can also be just Kano)
 - Loguetown (pun on prologue and epilogue)
 - Mariejois
 - Sakura Kingdom

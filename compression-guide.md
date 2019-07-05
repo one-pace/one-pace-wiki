@@ -16,3 +16,12 @@ Use this command if your video is in 1080p:
 ```
 ffmpeg -i "input.avi" -c:v libx265 -c:a aac -b:a 128k -crf 18 -vf scale=1280x720:flags=lanczos "output.mp4"
 ```
+
+## Streams
+Encoding streams is annoying because of FFMpeg's path escape hell. Preferably make a .bat that you then run by dragging your .mkv file on there, so that you do some path escaping logic, example of batch code:
+```
+set sub_path=%~1
+set sub_path=%sub_path:\=\\\\%
+set sub_path=%sub_path::=\\:%
+ffmpeg -i "%~1" -vf subtitles="%sub_path%" "%~n1.stream.mp4"
+```

@@ -369,7 +369,7 @@ The Notebook is a place to put terms that have not been committed to the style g
 16. Bakkin
 17. Weevil 
 18. Carrot
-19. Choboro
+19. Chobro
 
 ## 5.2 Wano 01 - Contested Terms
 1. Mariejois/Mary Geoise

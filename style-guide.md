@@ -350,28 +350,29 @@ The Notebook is a place to put terms that have not been committed to the style g
 
 
 
-## 5.1 Wano 01 - Approved for Style Guide
-1. Reverie 
-2. Straw Hat Names
-3. Marco
-4. Nekomamushi
-5. Kin'emon
-6. Payback War
-7. Wano, 
-8. Vivi, 
-9. Rebecca, 
-10. Doctorine, 
-11. Doctor Kureha 
-12. Wapol 
-13. Sai
-14. Viola
-15. Belly
-16. Bakkin
-17. Weevil 
-18. Carrot
-19. Chobro
+## 5.1 Wano 01 - Approved for Style Guide 
+1.Bakkin
+2.Belly
+3.Carrot
+4. Chobro
+5. Doctor Kureha
+6. Doctorine
+7. Fishman
+8. Kin'emon
+9. Marco
+10. Nekomamushi
+11. Payback War
+12. Rebecca,
+13. Reverie
+14. Sai
+15. Straw Hat Names
+16. Viola
+17. Vivi,
+18. Wano,
+19. Wapol
+20. Weevil
 
 ## 5.2 Wano 01 - Contested Terms
 1. Mariejois/Mary Geoise
-2. Fish-Man/Fishman
+
 

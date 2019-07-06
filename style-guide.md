@@ -26,14 +26,8 @@
 - [3. Styling](#3-styling)
   * [3.1. Aegisub Styles](#31-aegisub-styles)
   * [3.2. Credits](#32-credits)
-- [4. Timing](#4-timing)
-  * [4.1. Lines](#41-lines)
-  * [4.2. Infoboxes](#42-infoboxes)
-    + [4.2.1. Dialogue](#421-dialogue)
-    + [4.2.2. Captions](#422-captions)
-  * [4.3. Italics](#43-italics)
- - [5. Notebook (Current Episodes)](#5-current)
-   * [5.1. Wano](#51-wano)
+ - [4. Notebook (Current Episodes)](#4-current)
+   * [4.1. Wano](#41-wano)
 
 # 1. Grammar
 ## 1.1. Naming convention
@@ -322,35 +316,11 @@ These are the official names of the different roles and credits for the openings
 - Soundtracking/Soundtracker
 - Raws/Raw Provider
 
-# 4. Timing
-## 4.1. Lines
-## 4.1.1. Line length
-Lines may never be over two rows. Lines that exceed two rows should be rephrased or split into two.
-
-## 4.1.2. Character dialogue
-Each line may only contain one character's dialog. If multiple characters are speaking at the same time, use the Secondary style.
-
-## 4.2. Infoboxes
-### 4.2.1. Dialogue
-1. For dialogue during infoboxes and captions, if the dialogue line is one line, put it under the infobox with vertical alignment `0`.
-2. If the dialogue line is two lines. Place it at the top with `\an8`.
-
-### 4.2.2. Captions
-1. Captions are to use the `Captions` style (See above).
-2. For character infoboxes that are placed bottom centre, put the captions above the infobox, closely matching the line breaks and the font sizes in the Japanese text inside the infobox.
-3. For location infoboxes, make sure the caption fits horizontally within the infobox, then place it either above or below the infobox (never to the side). Make sure the font size and line breaks match the Japanese text inside the infobox.
-
-## 4.3 Italics
-Some lines sometimes have wrapped italics (Especially thoughts). Make sure to remove these since the Thoughts style itself manages styling such as italics. To remove wrapped italics in Aegisub, select the lines with the wrapped Italics and press Ctrl+H. Tick "Use regular expressions" and "Limit to Selected Rows", and in the "Find what" textbox, input this regex: `(^\{\\i(1|0)?\}|\{\\i(1|0)?\}$)`.
-
-
-# 5.0 Notebook
+# 4.0 Notebook
 
 The Notebook is a place to put terms that have not been committed to the style guide. Additions are made on an episode by episode basis, and the implementation has begun with the Wano Arc.
 
-
-
-## 5.1 Wano 01 - Approved for Style Guide 
+## 4.1 Wano 01 - Approved for Style Guide 
 1. Bakkin
 2. Belly
 3. Carrot
@@ -372,7 +342,5 @@ The Notebook is a place to put terms that have not been committed to the style g
 19. Wapol
 20. Weevil
 
-## 5.2 Wano 01 - Contested Terms
+## 4.2 Wano 01 - Contested Terms
 1. Mariejois/Mary Geoise
-
-

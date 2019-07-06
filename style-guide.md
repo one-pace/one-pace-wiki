@@ -344,7 +344,7 @@ Each line may only contain one character's dialog. If multiple characters are sp
 Some lines sometimes have wrapped italics (Especially thoughts). Make sure to remove these since the Thoughts style itself manages styling such as italics. To remove wrapped italics in Aegisub, select the lines with the wrapped Italics and press Ctrl+H. Tick "Use regular expressions" and "Limit to Selected Rows", and in the "Find what" textbox, input this regex: `(^\{\\i(1|0)?\}|\{\\i(1|0)?\}$)`.
 
 
-## 5.0 Notebook
+# 5.0 Notebook
 
 The Notebook is a place to put terms that have not been committed to the style guide. Additions are made on an episode by episode basis, and the implementation has begun with the Wano Arc.
 

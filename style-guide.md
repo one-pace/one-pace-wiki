@@ -340,3 +340,36 @@ Each line may only contain one character's dialog. If multiple characters are sp
 
 ## 4.3 Italics
 Some lines sometimes have wrapped italics (Especially thoughts). Make sure to remove these since the Thoughts style itself manages styling such as italics. To remove wrapped italics in Aegisub, select the lines with the wrapped Italics and press Ctrl+H. Tick "Use regular expressions" and "Limit to Selected Rows", and in the "Find what" textbox, input this regex: `(^\{\\i(1|0)?\}|\{\\i(1|0)?\}$)`.
+
+
+## 5.0 Notebook
+
+The Notebook is a place to put terms that have not been committed to the style guide. Additions are made on an episode by episode basis, and the implementation has begun with the Wano Arc.
+
+
+
+## 5.1 Wano 01 - Approved for Style Guide
+1. Reverie 
+2. Straw Hat Names
+3. Marco
+4. Nekomamushi
+5. Kin'emon
+6. Payback War
+7. Wano, 
+8. Vivi, 
+9. Rebecca, 
+10. Doctorine, 
+11. Doctor Kureha 
+12. Wapol 
+13. Sai
+14. Viola
+15. Belly
+16. Bakkin
+17. Weevil 
+18. Carrot
+19. Choboro
+
+## 5.2 Wano 01 - Contested Terms
+1. Mariejois/Mary Geoise
+2. Fish-Man/Fishman
+

@@ -33,7 +33,7 @@
     + [4.2.2. Captions](#422-captions)
   * [4.3. Italics](#43-italics)
  - [5. Notebook (Current Episodes)](#5-current)
-   * [5.1. Wano 01] (#51-wano)
+   * [5.1. Wano](#51-wano)
 
 # 1. Grammar
 ## 1.1. Naming convention

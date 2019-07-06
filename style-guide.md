@@ -351,9 +351,9 @@ The Notebook is a place to put terms that have not been committed to the style g
 
 
 ## 5.1 Wano 01 - Approved for Style Guide 
-1.Bakkin
-2.Belly
-3.Carrot
+1. Bakkin
+2. Belly
+3. Carrot
 4. Chobro
 5. Doctor Kureha
 6. Doctorine

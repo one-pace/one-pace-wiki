@@ -1,16 +1,15 @@
 # Raws
 Ideally always go with the raws with the best quality. There are multiple factors to look into such as resolution and bitrate but in the end the best compression wins with the best quality. Also don't be afraid of file size. As long as they're under 1GB each it's fine. If the raw has to be re-encoded and it's 1080p you might as well downscale it to 720p right away.
 
+## Fix washed out colors
+In the RAWS VEG, add LEVELS --> Studio RGB to Computer RGB preset. For some reason Vegas reads the colour space of the source file incorrectly, so this fixes the gamma shift that produces washed out blacks, and by extension different colours. 
+![](https://i.imgur.com/YaBW6Z9.png)
+
 # Project settings
 Make sure the project properties in vegas match the raws frame rate and resolution. (Ctrl+Enter to check the properties) The field order should be Progressive scan. Disable resample mode. Turn off adjusting source media. No deinterlacing. No motion blur. 1.00000000 pixel aspect ratio.
 
 # Rendering
-Render with the lossless YUV preset. Make sure to match the resolution and frame rate of the raw. If the raws have differing frame rates use the higher one.
-
-As before, ensure your sequence settings match the source files.
-
-With your clip add LEVELS --> Studio RGB to Computer RGB preset. For some reason Vegas reads the colour space of the source file incorrectly, so this fixes the gamma shift that produces washed out blacks, and by extension different colours.
-![](https://i.imgur.com/YaBW6Z9.png)
+Make sure to match the resolution and frame rate of the raw. If the raws have differing frame rates use the higher one.
 
 To render, ensure you have the Lagarith codec installed (https://lags.leetcode.net/codec.html). In Vegas, choose the HD 1080-24p YUV preset under the .AVI heading. Hit "Customize Template" and ensure that under "Video Format", it is changed to "Lagarith Lossless Codec". That may change your frame size and frame rate to different defaults, so be sure to swap those back to "Use Project Settings" and "23.976". Before comitting the render, just double check under "Configure..." next to Lagarith that it has the following settings.
 ![](https://i.imgur.com/37psvYm.png)

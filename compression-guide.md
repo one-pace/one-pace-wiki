@@ -22,4 +22,4 @@ Run the following command after render:
 To keep the 1080p resolution, simply remove the `-vf scale` option. CRF 18 is the best balance between file size and quality. The audio has to be re-encoded because the .avi produced in the render has an incompatible audio codec for the .mp4 container.
 
 ## Streams
-The streams are encoded with the One Pace Publisher (Located in Nextcloud/applications). The publisher runs a batch file called `make_stream.bat`. If you wish to configure the stream parameters you can do so in this batch.
+The streams are encoded with the One Pace Publisher (Located in Nextcloud/applications). The publisher runs a batch file called `make_stream.bat`. If you wish to configure the encoding parameters you can do so in this batch.

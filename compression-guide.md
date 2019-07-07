@@ -22,10 +22,4 @@ Run the following command after render:
 To keep the 1080p resolution, simply remove the `-vf scale` option. CRF 18 is the best balance between file size and quality. The audio has to be re-encoded because the .avi produced in the render has an incompatible audio codec for the .mp4 container.
 
 ## Streams
-Encoding streams is annoying because of FFMpeg's path escape hell. Preferably make a .bat that you then run by dragging your .mkv file on there, so that you do some path escaping logic, example of batch code:
-```
-set sub_path=%~1
-set sub_path=%sub_path:\=\\\\%
-set sub_path=%sub_path::=\\:%
-ffmpeg -i "%~1" -vf subtitles="%sub_path%" "%~n1.stream.mp4"
-```
+The streams are encoded with the One Pace Publisher (Located in Nextcloud/applications). The publisher runs a batch file called `make_stream.bat`. If you wish to configure the stream parameters you can do so in this batch.

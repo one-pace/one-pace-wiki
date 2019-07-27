@@ -1,6 +1,13 @@
 # Raws
 Ideally always go with the raws with the best quality. There are multiple factors to look into such as resolution and bitrate but in the end the best compression wins with the best quality. Also don't be afraid of file size. As long as they're under 1GB each it's fine. If the raw has to be re-encoded and it's 1080p you might as well downscale it to 720p right away.
 
+## Downscaling 1080p raws
+If the raws have to be re-encoded to be able to be handled in Vegas it's best to downscale them while at it (note that Wano+ episodes are (supposedly) animated in 900p, so they should remain at 1080p)
+
+`ffmpeg -i "incompatible_raw_1080p.mkv" -c:v libx264 -c:a aac -b:a 128k -crf 18 -strict experimental -vf scale=1280x720:flags=lanczos "encoded.mp4"`
+
+Do not change the framerate, this will mess up the panning.
+
 ## Fix washed out colors
 In the RAWS VEG, add LEVELS --> Studio RGB to Computer RGB preset. For some reason Vegas reads the colour space of the source file incorrectly, so this fixes the gamma shift that produces washed out blacks, and by extension different colours.
 
@@ -17,9 +24,7 @@ To render, ensure you have the Lagarith codec installed (https://lags.leetcode.n
 ![](https://i.imgur.com/37psvYm.png)
 # Compression
 Run the following command after render:
-`ffmpeg -i "test.avi" -c:v libx265 -c:a aac -b:a 128k -crf 18 -strict experimental -vf scale=1280x720:flags=lanczos "encoded.mp4"`
-
-To keep the 1080p resolution, simply remove the `-vf scale` option. CRF 18 is the best balance between file size and quality. The audio has to be re-encoded because the .avi produced in the render has an incompatible audio codec for the .mp4 container.
+`ffmpeg -i "test.avi" -c:v libx265 -c:a aac -b:a 128k -crf 18 -strict experimental "encoded.mp4"`
 
 ## Streams
 The streams are encoded with the One Pace Publisher (Located in Nextcloud/applications). The publisher runs a batch file called `make_stream.bat`. If you wish to configure the encoding parameters you can do so in this batch.

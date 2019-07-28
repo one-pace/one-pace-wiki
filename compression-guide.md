@@ -6,6 +6,15 @@ If the raws have to be re-encoded to be able to be handled in Vegas it's best to
 
 `ffmpeg -i "incompatible_raw_1080p.mkv" -c:v libx264 -c:a aac -b:a 128k -crf 18 -strict experimental -vf scale=1280x720:flags=lanczos "encoded.mp4"`
 
+Netflix:
+`ffmpeg -i video.h264 -i audio.aac -map 0:v -map 1:a -c:v libx264 -c:a aac -b:a 128k -strict experimental -crf 18 -vf scale=1280x720:flags=lanczos out.mp4`
+
+- Strict experimental is needed for aac audio codec for some reason
+- crf 18 is good
+- map thing maps the audio and video
+- b:a is bitrate for audio, 128k in this case but it should match the raw's audio bitrate for some reason
+- scale 1280x720 with the flag lanczos which does something
+
 Do not change the framerate, this will mess up the panning.
 
 ## Fix washed out colors
